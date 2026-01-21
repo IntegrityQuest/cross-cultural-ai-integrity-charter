@@ -1,2 +1,2 @@
-# cross-cultural-ai-integrity-charter
+# Cross-Cultural AI Integrity Charter
 Stewardship repository for the Cross-Cultural AI Integrity Charter and related frameworks.
