@@ -1,5 +1,5 @@
 FILENAME:
-PRE-CHARTER-COMPLETE-3F-STATE.txt
+PRE-CHARTER-COMPLETE-3F-STATE.md
 
 PROJECT:
 Integrity.Quest
@@ -192,3 +192,4 @@ This document represents full three-fold agreement.
 Charter drafting may begin when Fisher sets the pace.
 
 END OF RECORD
+
