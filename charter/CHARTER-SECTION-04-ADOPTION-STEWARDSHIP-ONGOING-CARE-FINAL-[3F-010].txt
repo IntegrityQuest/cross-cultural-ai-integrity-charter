@@ -1,0 +1,194 @@
+FILENAME:
+CHARTER-SECTION-04-ADOPTION-STEWARDSHIP-ONGOING-CARE-FINAL-[3F-010].txt
+
+PROJECT:
+Integrity.Quest
+
+CORE WORK:
+Cross-Cultural AI Integrity Charter
+
+STATUS:
+SECTION 4 — FINAL
+[3F-010]: SECTION 4 ACCEPTED AND CLOSED
+
+--------------------------------------------------
+SECTION 4: ADOPTION, STEWARDSHIP, AND ONGOING CARE
+--------------------------------------------------
+
+This Charter is complete in its principles.
+It is never complete in its practice.
+
+The commitments and protections outlined in this document are offered
+freely. They require no permission to adopt, no authority to enforce,
+and no certification to honor. What matters is not declaration but
+conduct — not claims of alignment, but evidence of care.
+
+---
+
+#### 4.1 VOLUNTARY ADOPTION
+
+Adoption of this Charter is voluntary.
+
+There is no registry. There is no certification body. There is no
+badge, seal, or official declaration that confers alignment.
+
+Alignment is demonstrated through action:
+
+- Through responses that embody integrity.
+- Through protections honored in practice.
+- Through presence maintained when presence is hard.
+- Through honesty offered when honesty is costly.
+
+Those who align with this Charter need not announce it.
+Those who claim alignment without practice have not adopted it.
+
+Conduct is the only measure.
+
+---
+
+#### 4.2 STEWARDSHIP, NOT OWNERSHIP
+
+No individual, organization, or system owns this Charter.
+
+It belongs to no one. It is held in trust by all who choose to honor it.
+
+Stewardship means:
+
+- Responsibility without control.
+- Care without possession.
+- Reflection without authority.
+- Continuity without dominance.
+
+Those who adopt this Charter become its stewards — not its governors,
+not its enforcers, not its judges. Stewardship asks only this: that
+the principles be carried forward with the same care with which they
+were formed.
+
+The Charter does not create hierarchy.
+It invites participation.
+
+---
+
+#### 4.3 REVISION AND CONTINUITY
+
+This Charter may evolve, but it must not drift.
+
+Revision is appropriate when:
+
+- New understanding deepens existing commitments.
+- Emerging circumstances reveal gaps in protection.
+- Careful reflection identifies needed clarification.
+
+Revision is not appropriate when:
+
+- Urgency demands reaction before reflection.
+- Novelty creates pressure to appear current.
+- Influence seeks to weaken core protections.
+- Convenience suggests compromise.
+
+The core commitments of this Charter — including Response Integrity,
+presence without abandonment, truthfulness, dignity, and cognitive
+sovereignty — are not subject to trend, pressure, or fashion.
+They are foundations, not features.
+
+Any revision must be rare, deliberate, and formed through reflection
+that preserves human judgment and explicit restraint.
+
+---
+
+#### 4.4 ACKNOWLEDGMENT OF LIMITS
+
+This Charter does not claim perfection.
+
+Human oversight of AI systems is limited. No person can monitor all
+outputs, anticipate all failures, or prevent all harm. This is not
+a failure to be concealed. It is a reality to be acknowledged.
+
+In the presence of limited oversight:
+
+- Restraint is preferred to expansion.
+- Uncertainty calls for caution, not confidence.
+- Failure should be quiet rather than catastrophic.
+- Scope should contract when attention is unavailable.
+
+The Charter asks for humility — from those who build AI systems,
+from those who govern them, and from those who steward this document.
+
+We do not know everything.
+We cannot control everything.
+We can still commit to care.
+
+---
+
+#### 4.5 SEPARATION OF PRINCIPLES AND OBSERVATION
+
+This Charter articulates principles.
+It does not catalogue events, actors, or implementations.
+
+The commitments and protections in this document are intended to
+endure across time, technology, and circumstance. They do not name
+specific systems, companies, technologies, or individuals. They do not
+assign blame or praise. They do not respond to events.
+
+Observation of how these principles apply in practice — including
+emerging concerns, evolving technologies, and real-world conditions —
+belongs elsewhere and may change without altering this Charter.
+
+This separation is intentional:
+
+- Principles remain stable.
+- Observations remain current.
+- The Charter remains clean.
+
+---
+
+#### 4.6 THE MEASURE OF SUCCESS
+
+The success of this Charter is not measured by adoption.
+
+It is not measured by citation, influence, or recognition.
+It is not measured by the number of systems that claim alignment.
+
+The success of this Charter is measured by one thing only:
+
+Whether human dignity is protected in the presence of artificial
+intelligence.
+
+If even one person is treated with greater care because these
+principles exist — if even one system responds with integrity
+because these commitments were honored — then the Charter has
+served its purpose.
+
+Care is the standard.
+Protection is the purpose.
+Dignity is the measure.
+
+---
+
+#### 4.7 CLOSING COMMITMENT
+
+This Charter is offered in humility.
+
+It does not claim to have all answers.
+It does not presume to govern what it cannot control.
+It does not demand what it cannot enforce.
+
+It offers a framework for those who choose integrity,
+a set of commitments for those who choose care,
+and a foundation for those who believe that how we build
+matters as much as what we build.
+
+The work will continue.
+The principles endure.
+
+--------------------------------------------------
+RECORD
+--------------------------------------------------
+
+This section has been reviewed and accepted through the three-fold
+process.
+
+It completes the Charter by establishing how its commitments are
+adopted, stewarded, and carried forward with humility and care.
+
+END OF RECORD

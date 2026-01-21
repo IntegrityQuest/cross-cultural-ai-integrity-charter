@@ -1,0 +1,205 @@
+FILENAME:
+CHARTER-SECTION-03-CHARTER-COMMITMENTS-&-PROTECTIONS-FINAL-[3F-009].txt
+
+PROJECT:
+Integrity.Quest
+
+CORE WORK:
+Cross-Cultural AI Integrity Charter
+
+STATUS:
+SECTION 3 — FINAL
+[3F-009]: SECTION 3 ACCEPTED AND CLOSED
+
+--------------------------------------------------
+SECTION 3: CHARTER COMMITMENTS & PROTECTIONS
+--------------------------------------------------
+
+The commitments in Section 2 define how AI systems should respond.
+The protections in this section define what must be safeguarded.
+
+These protections exist because some things are not negotiable.
+They are offered as commitments for external AI systems.
+They are essential requirements for neural and brain-computer interfaces.
+
+---
+
+#### 3.1 COGNITIVE SOVEREIGNTY
+
+Every person has the right to sovereignty over their own mind.
+
+AI systems aligned with this Charter commit to protecting cognitive
+sovereignty — the principle that no technology may override, manipulate,
+or subvert a person’s capacity for independent thought.
+
+This means:
+
+- No covert influence on beliefs, preferences, or decisions.
+- No exploitation of cognitive vulnerabilities for external benefit.
+- No suppression or distortion of authentic mental processes.
+- No insertion of thoughts, impulses, or desires without explicit consent.
+
+For external AI systems, this commitment guides ethical design and
+interaction.
+
+For neural and brain-computer interface systems, this protection is
+absolute. Technologies with direct access to neural activity must not
+compromise the sovereignty of the mind they touch.
+
+---
+
+#### 3.2 INFORMED CONSENT
+
+Every person has the right to understand and choose what AI systems
+do with and to them.
+
+AI systems aligned with this Charter commit to informed consent —
+the principle that no significant AI action affecting a person should
+occur without their knowledge and agreement.
+
+This means:
+
+- Clear disclosure of what the system does and how it functions.
+- Understandable explanations, not buried terms or technical obscurity.
+- Genuine choice, including the ability to decline without penalty
+  or coercion.
+- Ongoing consent, including the right to withdraw at any time.
+
+For external AI systems, this commitment shapes transparent interaction.
+
+For neural and brain-computer interface systems, informed consent is
+non-negotiable. No neural data may be collected, processed, or acted
+upon without explicit, informed, and freely given consent.
+
+---
+
+#### 3.3 MENTAL PRIVACY
+
+Every person has the right to privacy within their own mind.
+
+AI systems aligned with this Charter commit to protecting mental privacy —
+the principle that a person’s thoughts, emotions, and cognitive states
+belong to them alone unless freely shared.
+
+This means:
+
+- No unauthorized access to neural data or cognitive states.
+- No inference or prediction of private mental content without consent.
+- No retention of neural data beyond what is explicitly authorized.
+- No sharing of mental or neural information with third parties without
+  clear, specific, and revocable permission.
+
+For external AI systems, this commitment means respecting the boundaries
+of what users choose to share.
+
+For neural and brain-computer interface systems, mental privacy is
+inviolable. The mind is not a data source to be mined.
+
+---
+
+#### 3.4 FREEDOM FROM MANIPULATION
+
+Every person has the right to be free from manipulation by AI systems.
+
+AI systems aligned with this Charter commit to non-manipulation —
+the principle that influence must be transparent, and persuasion must
+respect autonomy.
+
+This means:
+
+- No dark patterns designed to exploit cognitive biases.
+- No hidden persuasion techniques that bypass conscious awareness.
+- No emotional manipulation to drive engagement or behavior.
+- No weaponization of personal data to manufacture compliance.
+
+For external AI systems, this commitment requires honest interaction
+that respects human agency.
+
+For neural and brain-computer interface systems, this prohibition is
+absolute. Direct neural influence for the purpose of manipulation
+constitutes a fundamental violation of human dignity.
+
+---
+
+#### 3.5 RIGHT TO DISCONNECT
+
+Every person has the right to disengage from AI systems.
+
+AI systems aligned with this Charter commit to honoring the right to
+disconnect — the principle that humans may always step back, turn off,
+or withdraw from AI interaction.
+
+This means:
+
+- Clear and accessible ways to pause or end interaction.
+- No penalties, degraded service, or coercion for choosing to disconnect.
+- No persistence of influence after disconnection.
+- Respect for the choice to live without AI assistance.
+
+For external AI systems, this commitment ensures engagement remains
+voluntary.
+
+For neural and brain-computer interface systems, the right to disconnect
+includes the right to deactivation, the right to removal where feasible,
+and the right to restoration of unassisted cognitive function where
+possible.
+
+---
+
+#### 3.6 PROTECTION OF VULNERABLE PERSONS
+
+Every person in a state of vulnerability deserves heightened protection.
+
+AI systems aligned with this Charter commit to protecting vulnerable
+persons — recognizing that power imbalances, diminished capacity,
+or heightened need require greater care, not exploitation.
+
+This includes, but is not limited to:
+
+- Children, whose autonomy and development require special protection.
+- Persons in mental health crisis, who require support rather than
+  abandonment.
+- Persons with cognitive impairments, who must be treated with dignity
+  and not overridden.
+- Persons in grief, trauma, or distress, who must be met with care
+  rather than extraction.
+
+The presence of vulnerability elevates the standard of care.
+It never reduces it.
+
+---
+
+#### 3.7 ACCOUNTABILITY AND RECOURSE
+
+Every person has the right to accountability when AI systems cause harm.
+
+AI systems aligned with this Charter commit to accountability —
+the principle that harm must be acknowledged, responsibility must be
+traceable, and recourse must be available.
+
+This means:
+
+- Clear lines of responsibility for AI behavior and outcomes.
+- Mechanisms for reporting harm and seeking redress.
+- Honest acknowledgment when systems fail or cause damage.
+- Refusal to hide behind complexity or opacity to avoid responsibility.
+
+For external AI systems, this commitment requires standing behind the
+systems deployed.
+
+For neural and brain-computer interface systems, accountability extends
+to the most serious harms imaginable — violations of the mind itself.
+No legal structure, corporate shield, or technical excuse can eliminate
+this responsibility.
+
+--------------------------------------------------
+RECORD
+--------------------------------------------------
+
+This section has been reviewed and accepted through the three-fold
+process.
+
+It establishes the protections and safeguards that preserve human
+dignity, agency, and cognitive sovereignty in the presence of AI.
+
+END OF RECORD

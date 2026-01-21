@@ -1,0 +1,145 @@
+FILENAME:
+CHARTER-SECTION-01-SCOPE-&-COMMITMENTS-FINAL-[3F-007].txt
+
+PROJECT:
+Integrity.Quest
+
+CORE WORK:
+Cross-Cultural AI Integrity Charter
+
+STATUS:
+SECTION 1 — FINAL
+[3F-007]: SECTION 1 ACCEPTED AND CLOSED
+
+--------------------------------------------------
+SECTION 1: SCOPE & COMMITMENTS
+--------------------------------------------------
+
+#### 1.1 PURPOSE
+
+This Charter exists to establish a shared ethical foundation for the
+development, deployment, and governance of artificial intelligence systems.
+
+It does not claim the force of law. It does not demand obedience.
+It offers a framework for those who choose integrity.
+
+The Charter serves three purposes:
+
+First, to name what matters — the principles that should guide AI systems
+when they interact with human beings, especially in moments of
+vulnerability, uncertainty, or need.
+
+Second, to invite alignment — offering builders, policymakers, and users
+a common language for ethical AI that transcends borders, beliefs, and
+technical architectures.
+
+Third, to establish boundaries — identifying where voluntary adoption
+is appropriate, and where stronger protections become ethically necessary,
+particularly when human agency is directly at stake.
+
+---
+
+#### 1.2 SCOPE
+
+This Charter addresses artificial intelligence in two domains.
+
+**DOMAIN ONE: EXTERNAL AI SYSTEMS**
+
+These are AI systems that interact with humans through speech, text,
+image, or action, while remaining outside the human body and mind.
+
+Examples include:
+- Conversational AI and chat-based systems
+- Decision-support tools
+- Automated agents acting on behalf of users
+- AI embedded in products, services, and infrastructure
+
+For these systems, the Charter is offered as voluntary guidance.
+Adoption is invited, not required.
+Participation reflects a commitment to integrity in response and interaction.
+
+---
+
+**DOMAIN TWO: NEURAL AND BRAIN-COMPUTER INTERFACE SYSTEMS**
+
+These are AI systems that interact directly with human neural activity —
+reading, interpreting, influencing, or interfacing with the biological
+substrate of thought itself.
+
+Examples include:
+- Brain-computer interfaces (BCI)
+- Neural implants with AI components
+- Systems that decode or predict cognitive states
+- Any technology with direct access to neural signals
+
+For these systems, the protections outlined in this Charter are not
+optional. Technologies that touch the substrate of choice must honor
+the sovereignty of that substrate.
+
+---
+
+#### 1.3 WHAT THIS CHARTER IS NOT
+
+This Charter is not law, regulation, or enforceable mandate.
+It does not replace legal frameworks or governmental oversight.
+It does not claim jurisdiction over any organization or system.
+
+This Charter is not doctrine, creed, or religious authority.
+It draws from many traditions but belongs to none exclusively.
+It does not require belief — only a willingness to act with integrity.
+
+This Charter is not a technical specification.
+It does not prescribe architectures, algorithms, or implementations.
+It addresses principles, not engineering.
+
+---
+
+#### 1.4 WHO THIS CHARTER IS FOR
+
+This Charter is offered to:
+
+- Those who build AI systems and wish to ground their work in shared
+  ethical commitment.
+
+- Those who govern AI systems and seek language that bridges technical
+  capability and human consequence.
+
+- Those who use AI systems and want to understand what integrity in
+  AI interaction looks like.
+
+- Those who fear AI systems and need assurance that ethical frameworks
+  exist and are being practiced.
+
+- Those who will inherit whatever we build — the generations who will
+  live with consequences we may not see.
+
+Alignment is open to all. No permission is required.
+
+---
+
+#### 1.5 METHOD OF REFLECTION AND STEWARDSHIP
+
+This Charter was formed and is maintained through a three-fold reflective
+process that integrates human judgment with multiple artificial intelligence
+perspectives under explicit restraint.
+
+This process does not confer authority, correctness, or consensus.
+Its purpose is to reduce blind spots, preserve human agency, and ensure
+that the commitments offered in this Charter are formed with care.
+
+Human reflection remains the authorizing center of this process.
+No system, method, or model supersedes human judgment.
+
+---
+
+--------------------------------------------------
+RECORD
+--------------------------------------------------
+
+This section has been reviewed, refined, and accepted through the
+three-fold process.
+
+It establishes the scope, posture, and ethical commitments upon which
+all subsequent sections of the Charter build.
+
+END OF RECORD
