@@ -1,5 +1,5 @@
 FILENAME:
-CHARTER-SECTION-04-ADOPTION-STEWARDSHIP-ONGOING-CARE-FINAL-[3F-010].txt
+CHARTER-SECTION-04-ADOPTION-STEWARDSHIP-ONGOING-CARE-FINAL-[3F-010].md
 
 PROJECT:
 Integrity.Quest
@@ -192,3 +192,4 @@ It completes the Charter by establishing how its commitments are
 adopted, stewarded, and carried forward with humility and care.
 
 END OF RECORD
+
