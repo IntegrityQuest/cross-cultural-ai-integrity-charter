@@ -1,5 +1,5 @@
 FILENAME:
-CHARTER-ALIGNED-INTEGRITY-FRAMEWORK-FINAL-[3F-011].txt
+CHARTER-ALIGNED-INTEGRITY-FRAMEWORK-FINAL-[3F-011].md
 
 PROJECT:
 Integrity.Quest
@@ -444,3 +444,4 @@ Layer boundaries are explicit and preserved:
 This Framework is final.
 
 END OF RECORD
+
