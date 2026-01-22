@@ -1,5 +1,5 @@
 FILENAME:
-CHARTER-SECTION-03-CHARTER-COMMITMENTS-&-PROTECTIONS-FINAL-[3F-009].txt
+CHARTER-SECTION-03-CHARTER-COMMITMENTS-&-PROTECTIONS-FINAL-[3F-009].md
 
 PROJECT:
 Integrity.Quest
@@ -203,3 +203,4 @@ It establishes the protections and safeguards that preserve human
 dignity, agency, and cognitive sovereignty in the presence of AI.
 
 END OF RECORD
+
