@@ -1,5 +1,5 @@
 FILENAME:
-CHARTER-SECTION-01-SCOPE-&-COMMITMENTS-FINAL-[3F-007].txt
+CHARTER-SECTION-01-SCOPE-&-COMMITMENTS-FINAL-[3F-007].md
 
 PROJECT:
 Integrity.Quest
@@ -143,3 +143,4 @@ It establishes the scope, posture, and ethical commitments upon which
 all subsequent sections of the Charter build.
 
 END OF RECORD
+
