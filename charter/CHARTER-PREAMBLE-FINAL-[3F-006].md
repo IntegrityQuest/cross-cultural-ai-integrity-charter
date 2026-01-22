@@ -1,5 +1,5 @@
 FILENAME:
-CHARTER-PREAMBLE-FINAL-[3F-006].txt
+CHARTER-PREAMBLE-FINAL-[3F-006].md
 
 PROJECT:
 Integrity.Quest
@@ -77,3 +77,4 @@ It represents shared understanding and intentional restraint.
 Further Charter sections build upon this foundation.
 
 END OF RECORD
+
