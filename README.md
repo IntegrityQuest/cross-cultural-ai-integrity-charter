@@ -1,11 +1,17 @@
-# Cross-Cultural AI Integrity Charter
+# Playbooks
 
-This repository stewards the **Cross-Cultural AI Integrity Charter** and related materials.
+This directory contains **implementation playbooks**.
 
-The Charter defines principles of integrity, care, and responsibility for AI systems engaging with humanity, grounded in cross-cultural ethical convergence.
+Playbooks provide concrete guidance for how systems may operationalize the Charter and Framework in specific domains or risk contexts.
 
-This work is stewarded, not owned.
-No individual, organization, or system claims authority over it.
+Characteristics of playbooks:
+- Domain-specific
+- Practical and technical
+- Subject to revision as technology evolves
 
-For experiential exploration, see: https://integrity.quest
+Not all playbooks exist yet.
+They are created only when a clear need arises.
+
+Example:
+- Playbook 11 addresses Brain–Computer Interface (BCI) risks due to immediate relevance.
 
