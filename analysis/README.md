@@ -1,17 +1,18 @@
-# Analysis
+# Concordance
 
-This directory contains **supporting materials** that provide context, evidence, and historical continuity for the Charter and related work.
+This folder contains the **Concordance**: a cross-cultural documentation of ethical reciprocity (often called the Golden Rule).
 
-Materials here are:
-- Non-governing
-- Informational and reflective
-- Intended to support understanding, not enforce standards
+The Concordance serves as:
+- Evidence of ethical convergence across cultures
+- Context for the Charter’s ethical foundation
+- A living record open to careful expansion
 
-Contents may include:
-- Pre-charter alignment records
-- Gap analyses
-- Concordance research
-- Historical or comparative notes
+The Concordance:
+- Does not rank cultures
+- Does not claim equivalence where none exists
+- Documents sources conservatively and respectfully
 
-Documents in this directory do not override the Charter or Framework.
+The canonical file is:
+- `CONCORDANCE.md`
+
 
