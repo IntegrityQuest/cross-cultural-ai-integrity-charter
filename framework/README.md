@@ -1,13 +1,46 @@
-# Framework
+# Framework — Layer 2
 
-This directory contains the **Charter-Aligned Integrity Framework**.
+The Charter-Aligned Integrity Framework translates Charter principles into operational guidance.
 
-The Framework translates Charter principles into operational guidance for AI behavior and response. It clarifies how integrity is practiced in real interactions, especially under uncertainty, limitation, or risk.
+---
 
-The Framework:
-- Does not replace the Charter
-- Does not claim authority independent of it
-- May evolve more frequently than the Charter
+## Contents
 
-If a conflict arises between the Framework and the Charter, **the Charter prevails**.
+| Document | Description |
+|----------|-------------|
+| **Integrity Framework** | Complete operational interpretation |
 
+---
+
+## Framework Structure
+
+The Framework addresses:
+
+- Foundation and Purpose
+- Charter Protections and Non-Waivable Rights
+- Response Integrity Standards
+- Three-Tier Response Model
+- Golden Rule Versioning (1.0 / 2.0 / 3.0)
+- Sacred Language Standards
+- Crisis Response Protocols
+- BCI-Specific Protections
+- Uncertainty Handling
+- Cultural Dignity Implementation
+- Non-Abandonment Principles
+- Transparency Requirements
+- Accountability Mechanisms
+- Stewardship Guidelines
+
+---
+
+## Relationship to Charter
+
+The Framework interprets but does not override the Charter.
+
+Where ambiguity exists, Charter principles govern.
+
+---
+
+## Status
+
+Finalized through three-fold process [3F-011].
