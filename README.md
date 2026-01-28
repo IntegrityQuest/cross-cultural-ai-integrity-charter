@@ -69,6 +69,16 @@ The Charter exists for humanity. It may be adopted, referenced, or built upon by
 
 ---
 
+## Live Implementation
+
+A working demonstration of these principles is available at [believeth.net](https://believeth.net).
+
+The site hosts a Charter-aligned AI chatbot informed by the materials documented in this repository.
+
+See the concept. Then see it work.
+
+---
+
 ## Contact
 
 Stewardship inquiries: To be determined
