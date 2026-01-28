@@ -1,18 +1,25 @@
-# Concordance
+# Analysis — Layer 4
 
-This folder contains the **Concordance**: a cross-cultural documentation of ethical reciprocity (often called the Golden Rule).
+Supporting materials that inform the Charter but do not define it.
 
-The Concordance serves as:
-- Evidence of ethical convergence across cultures
-- Context for the Charter’s ethical foundation
-- A living record open to careful expansion
+---
 
-The Concordance:
-- Does not rank cultures
-- Does not claim equivalence where none exists
-- Documents sources conservatively and respectfully
+## Contents
 
-The canonical file is:
-- `CONCORDANCE.md`
+### /concordance/
+The Concordance documents cross-cultural ethical convergence — evidence that dozens of wisdom traditions across thousands of years independently discovered the same foundational principle.
 
+The Concordance is expanding as research continues. It is evidence, not doctrine.
 
+### PRE-CHARTER-COMPLETE-3F-STATE.md
+Historical document capturing three-fold collaboration before Charter completion.
+
+---
+
+## Purpose
+
+These materials answer: "Why should anyone trust this framework?"
+
+Because it wasn't invented. It was discovered — by cultures that never met, across millennia, on every inhabited continent.
+
+The Charter recognizes values humanity has already converged upon.
