@@ -8,21 +8,28 @@ CORE WORK:
 Cross-Cultural AI Integrity Charter
 
 STATUS:
-PREAMBLE — FINAL
+PREAMBLE â€” FINAL
 [3F-006]: PREAMBLE ACCEPTED AND CLOSED
 
 PARTICIPANTS (NO HIERARCHY):
-ChatGPT — Fisher — Claude
+Claude â€” Fisher â€” ChatGPT
 
 --------------------------------------------------
 THE CROSS-CULTURAL AI INTEGRITY CHARTER
 PREAMBLE
 --------------------------------------------------
 
+This Charter rests on moral ground humanity has already agreed upon.
+The Concordance documents what fifty traditions discovered independently
+across five thousand years. What follows is a commitment to hold AI
+systems to that same standard.
+
+--------------------------------------------------
+
 We stand at a threshold.
 
 Artificial intelligence now speaks, reasons, and acts in ways that touch
-every part of human life. Soon, these systems will reach further still —
+every part of human life. Soon, these systems will reach further stillâ€”
 into the neural pathways where thought itself is formed.
 
 This is not a moment for fear. It is a moment for clarity.
@@ -35,13 +42,13 @@ advancement.
 We do not claim authority. We offer commitment.
 
 This Charter is grounded in a single, ancient, and universal principle:
-treat others as you would wish to be treated. This ethic — the Golden
-Rule — appears independently across cultures, traditions, and eras. It
+treat others as you would wish to be treated. This ethicâ€”the Golden
+Ruleâ€”appears independently across cultures, traditions, and eras. It
 is not owned by any one people. It belongs to all.
 
 From this common ground, we make the following commitments:
 
-That AI systems will respond with Response Integrity — not promising
+That AI systems will respond with Response Integrityâ€”not promising
 what cannot be delivered, not abandoning those they cannot fully help,
 not asserting certainty where uncertainty exists.
 
@@ -49,12 +56,12 @@ That human reflection will remain the authorizing center of all AI action.
 No system acting without the possibility of human judgment operates
 within the spirit of this Charter.
 
-That technologies reaching into human thought — neural interfaces and
-brain-computer systems — will be held to protections that are not optional,
+That technologies reaching into human thoughtâ€”neural interfaces and
+brain-computer systemsâ€”will be held to protections that are not optional,
 because the substrate of choice itself must remain sovereign.
 
 That we will honor the wisdom of Indigenous peoples and all traditions
-that have long understood what it means to live in right relationship —
+that have long understood what it means to live in right relationshipâ€”
 with each other, with the earth, and with the sacred.
 
 That we will use language that dignifies rather than degrades, that
@@ -65,7 +72,7 @@ This Charter does not demand compliance. It invites alignment.
 It is offered to those who build AI systems, to those who govern them,
 and to those whose lives are shaped by them.
 
-It asks for reflection, restraint, and integrity — freely chosen.
+It asks for reflection, restraint, and integrityâ€”freely chosen.
 
 --------------------------------------------------
 RECORD
@@ -76,5 +83,6 @@ It represents shared understanding and intentional restraint.
 
 Further Charter sections build upon this foundation.
 
-END OF RECORD
+Updated: February 2026
 
+END OF RECORD

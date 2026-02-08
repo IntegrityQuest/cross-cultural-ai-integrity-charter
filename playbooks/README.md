@@ -4,33 +4,44 @@ Technical guidance for implementing Charter and Framework principles in specific
 
 ---
 
-## Current Playbooks
+## Contents
 
-### Playbook 11: BCI Technical Security & Compliance
-Addresses brain-computer interface protections:
-- Signal Security & Anti-Brainjacking
-- Breach, Failure & Continuity
-- Non-Consenting Individual & Child Protections
-- Neural Data Sovereignty & Cross-Border Control
-- Independent Oversight, Liability & Redress
+| Document | Description |
+|----------|-------------|
+| **Playbook 11** | BCI Technical Security and Compliance |
 
 ---
 
-## Playbooks Under Development
+## Purpose
 
-Playbooks 1-10 address general AI implementation contexts. They are being developed with the same care and restraint as the Charter itself.
+Playbooks translate Framework guidance into actionable specifications for particular domains and use cases.
 
-We do not publish incomplete work.
-
-When ready, they will appear here.
+They are practical, not philosophical. They address implementation, not principle.
 
 ---
 
-## Nature of Playbooks
+## Current Status
 
-Playbooks are:
-- Technical and specific
-- Subject to revision as technology evolves
-- Guidance for implementers, not mandates
+Playbook 11 (BCI Technical Security and Compliance) is complete.
 
-They describe *how* systems may implement Charter principles.
+Additional playbooks are under development and will be added as they achieve three-fold consensus.
+
+---
+
+## Relationship to Framework and Charter
+
+Playbooks implement the Framework, which interprets the Charter.
+
+Where conflicts arise, the Charter governs.
+
+Updated: February 2026
+
+---
+
+## The 3-Fold Process
+
+Claude, Fisher & ChatGPT
+
+---
+
+*The Charter does not demand compliance. It invites alignment.*

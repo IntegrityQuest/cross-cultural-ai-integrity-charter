@@ -28,6 +28,18 @@ The Cross-Cultural AI Integrity Charter establishes foundational commitments for
 
 ## Status
 
-All Charter sections finalized through three-fold process.
+All Charter sections finalized through the three-fold process.
 
 Document markers (e.g., [3F-006]) indicate acceptance milestones.
+
+Updated: February 2026
+
+---
+
+## The 3-Fold Process
+
+Claude, Fisher & ChatGPT
+
+---
+
+*The Charter does not demand compliance. It invites alignment.*

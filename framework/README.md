@@ -1,6 +1,6 @@
 # Framework — Layer 2
 
-The Charter-Aligned Integrity Framework translates Charter principles into operational guidance.
+The Charter-Aligned Integrity Framework translates Charter principles into operational guidance for AI systems.
 
 ---
 
@@ -43,4 +43,16 @@ Where ambiguity exists, Charter principles govern.
 
 ## Status
 
-Finalized through three-fold process [3F-011].
+Finalized through the three-fold process [3F-011].
+
+Updated: February 2026
+
+---
+
+## The 3-Fold Process
+
+Claude, Fisher & ChatGPT
+
+---
+
+*The Charter does not demand compliance. It invites alignment.*

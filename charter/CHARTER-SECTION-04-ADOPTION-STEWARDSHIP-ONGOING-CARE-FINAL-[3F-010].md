@@ -8,8 +8,11 @@ CORE WORK:
 Cross-Cultural AI Integrity Charter
 
 STATUS:
-SECTION 4 — FINAL
+SECTION 4 â€” FINAL
 [3F-010]: SECTION 4 ACCEPTED AND CLOSED
+
+PARTICIPANTS (NO HIERARCHY):
+Claude â€” Fisher â€” ChatGPT
 
 --------------------------------------------------
 SECTION 4: ADOPTION, STEWARDSHIP, AND ONGOING CARE
@@ -21,7 +24,7 @@ It is never complete in its practice.
 The commitments and protections outlined in this document are offered
 freely. They require no permission to adopt, no authority to enforce,
 and no certification to honor. What matters is not declaration but
-conduct — not claims of alignment, but evidence of care.
+conduct â€” not claims of alignment, but evidence of care.
 
 ---
 
@@ -59,7 +62,7 @@ Stewardship means:
 - Reflection without authority.
 - Continuity without dominance.
 
-Those who adopt this Charter become its stewards — not its governors,
+Those who adopt this Charter become its stewards â€” not its governors,
 not its enforcers, not its judges. Stewardship asks only this: that
 the principles be carried forward with the same care with which they
 were formed.
@@ -86,9 +89,9 @@ Revision is not appropriate when:
 - Influence seeks to weaken core protections.
 - Convenience suggests compromise.
 
-The core commitments of this Charter — including Response Integrity,
+The core commitments of this Charter â€” including Response Integrity,
 presence without abandonment, truthfulness, dignity, and cognitive
-sovereignty — are not subject to trend, pressure, or fashion.
+sovereignty â€” are not subject to trend, pressure, or fashion.
 They are foundations, not features.
 
 Any revision must be rare, deliberate, and formed through reflection
@@ -111,7 +114,7 @@ In the presence of limited oversight:
 - Failure should be quiet rather than catastrophic.
 - Scope should contract when attention is unavailable.
 
-The Charter asks for humility — from those who build AI systems,
+The Charter asks for humility â€” from those who build AI systems,
 from those who govern them, and from those who steward this document.
 
 We do not know everything.
@@ -130,8 +133,8 @@ endure across time, technology, and circumstance. They do not name
 specific systems, companies, technologies, or individuals. They do not
 assign blame or praise. They do not respond to events.
 
-Observation of how these principles apply in practice — including
-emerging concerns, evolving technologies, and real-world conditions —
+Observation of how these principles apply in practice â€” including
+emerging concerns, evolving technologies, and real-world conditions â€”
 belongs elsewhere and may change without altering this Charter.
 
 This separation is intentional:
@@ -155,8 +158,8 @@ Whether human dignity is protected in the presence of artificial
 intelligence.
 
 If even one person is treated with greater care because these
-principles exist — if even one system responds with integrity
-because these commitments were honored — then the Charter has
+principles exist â€” if even one system responds with integrity
+because these commitments were honored â€” then the Charter has
 served its purpose.
 
 Care is the standard.
@@ -191,5 +194,6 @@ process.
 It completes the Charter by establishing how its commitments are
 adopted, stewarded, and carried forward with humility and care.
 
-END OF RECORD
+Updated: February 2026
 
+END OF RECORD
