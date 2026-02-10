@@ -69,7 +69,7 @@ The Charter exists for humanity. It may be adopted, referenced, or built upon by
 
 ## Live Implementation
 
-A working demonstration of these principles is available at [Believeth.net](https://believeth.net).
+A working demonstration of these principles is available at [integrity.quest](https://integrity.quest).
 
 See the concept. Then see it work.
 
