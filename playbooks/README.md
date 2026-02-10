@@ -8,7 +8,7 @@ Technical guidance for implementing Charter and Framework principles in specific
 
 | Document | Description |
 |----------|-------------|
-| **Playbook 11** | BCI Technical Security and Compliance |
+| **Playbook 11** | BCI Technical Security |
 
 ---
 
@@ -22,7 +22,7 @@ They are practical, not philosophical. They address implementation, not principl
 
 ## Current Status
 
-Playbook 11 (BCI Technical Security and Compliance) is complete.
+Playbook 11 (BCI Technical Security) is complete.
 
 Additional playbooks are under development and will be added as they achieve three-fold consensus.
 
