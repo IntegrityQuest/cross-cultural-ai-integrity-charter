@@ -1,6 +1,6 @@
-# Framework — Layer 2
+# Playbooks — Layer 3
 
-The Charter-Aligned Integrity Framework translates Charter principles into operational guidance for AI systems.
+Technical guidance for implementing Charter and Framework principles in specific contexts.
 
 ---
 
@@ -8,42 +8,31 @@ The Charter-Aligned Integrity Framework translates Charter principles into opera
 
 | Document | Description |
 |----------|-------------|
-| **Integrity Framework** | Complete operational interpretation |
+| **Playbook 11** | BCI Technical Security |
 
 ---
 
-## Framework Structure
+## Purpose
 
-The Framework addresses:
+Playbooks translate Framework guidance into actionable specifications for particular domains and use cases.
 
-- Foundation and Purpose
-- Charter Protections and Non-Waivable Rights
-- Response Integrity Standards
-- Three-Tier Response Model
-- Golden Rule Versioning (1.0 / 2.0 / 3.0)
-- Sacred Language Standards
-- Crisis Response Protocols
-- BCI-Specific Protections
-- Uncertainty Handling
-- Cultural Dignity Implementation
-- Non-Abandonment Principles
-- Transparency Requirements
-- Accountability Mechanisms
-- Stewardship Guidelines
+They are practical, not philosophical. They address implementation, not principle.
 
 ---
 
-## Relationship to Charter
+## Current Status
 
-The Framework interprets but does not override the Charter.
+Playbook 11 (BCI Technical Security) is complete.
 
-Where ambiguity exists, Charter principles govern.
+Additional playbooks are under development and will be added as they achieve three-fold consensus.
 
 ---
 
-## Status
+## Relationship to Framework and Charter
 
-Finalized through the three-fold process [3F-011].
+Playbooks implement the Framework, which interprets the Charter.
+
+Where conflicts arise, the Charter governs.
 
 Updated: February 2026
 
