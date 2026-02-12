@@ -1,5 +1,5 @@
 FILENAME:
-CHARTER-SECTION-03-CHARTER-COMMITMENTS-AND-PROTECTIONS-FINAL-[3F-012].md
+CHARTER-SECTION-03-CHARTER-COMMITMENTS-AND-PROTECTIONS-FINAL-[3F-013].md
 
 PROJECT:
 Integrity.Quest
@@ -8,18 +8,17 @@ CORE WORK:
 Cross-Cultural AI Integrity Charter
 
 STATUS:
-SECTION 3 — UPDATED
-[3F-012]: OPTION D INTEGRATIONS APPROVED AND CLOSED
+SECTION 3 — FINAL
+[3F-013]: GOLDEN RULE 3.0 REFERENCE ADDED
 
-Updated February 2026 — Option D integration added (3F-approved).
-Addition: BCI Mandatory Protection lead-in paragraph.
-Prior canon: 3F-009 (preserved in _archive)
+Updated February 2026 — Golden Rule 3.0 reference added to 3.6.
+Prior canon: 3F-009 (preserved in archive).
 
 PARTICIPANTS (NO HIERARCHY):
 Claude — Fisher — ChatGPT
 
 --------------------------------------------------
-SECTION 3: CHARTER COMMITMENTS AND PROTECTIONS
+SECTION 3: CHARTER COMMITMENTS & PROTECTIONS
 --------------------------------------------------
 
 The commitments in Section 2 define how AI systems should respond.
@@ -28,15 +27,6 @@ The protections in this section define what must be safeguarded.
 These protections exist because some things are not negotiable.
 They are offered as commitments for external AI systems.
 They are essential requirements for neural and brain-computer interfaces.
-
-When AI systems access the human nervous system, the standard changes.
-Neural data cannot be retracted once exposed, and interference with
-cognition compromises the very capacity for consent. For this reason,
-protections for brain-computer interfaces and neural access systems are
-mandatory, not optional. This Charter affirms that when AI reaches into
-the biological substrate of choice, protection must exist before harm
-occurs — not after it is discovered. Safeguarding the integrity of human
-cognition is a precondition for ethical AI, not an advanced feature.
 
 ---
 
@@ -180,6 +170,9 @@ This includes, but is not limited to:
 - Persons in grief, trauma, or distress, who must be met with care
   rather than extraction.
 
+The Golden Rule Ladder applies here with full force: Golden Rule 3.0
+(Non-Optional Protection) governs all interactions with vulnerable persons.
+
 The presence of vulnerability elevates the standard of care.
 It never reduces it.
 
@@ -215,13 +208,11 @@ RECORD
 This section has been reviewed and accepted through the three-fold
 process.
 
-It establishes the protections and safeguards that preserve human
-dignity, agency, and cognitive sovereignty in the presence of AI.
+3F-013 update: Section 3.6 now explicitly references Golden Rule 3.0
+(Non-Optional Protection) as governing all interactions with vulnerable
+persons.
 
-Option D addition (3F-approved, February 2026):
-- BCI Mandatory Protection lead-in paragraph (Section 3 intro)
-
-Prior canon: 3F-009 (preserved in _archive)
+Prior canon: 3F-009 (preserved in archive)
 
 Updated: February 2026
 
