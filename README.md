@@ -6,9 +6,9 @@ A values-based framework for ethical AI development grounded in universal human 
 
 ## What Is This?
 
-This repository contains the Cross-Cultural AI Integrity Charter — a constitutional framework for AI systems built on a single ancient principle: treat others as you would wish to be treated.
+This repository contains the Cross-Cultural AI Integrity Charter â€” a constitutional framework for AI systems built on a single ancient principle: treat others as you would wish to be treated.
 
-This ethic appears independently across 50 wisdom traditions spanning 5,000 years. These traditions never met. They reached the same conclusion.
+This ethic appears independently across dozens of wisdom traditions spanning thousands of years. These traditions never met. They reached the same conclusion.
 
 The Charter takes this convergent wisdom and applies it to artificial intelligence.
 
@@ -16,34 +16,36 @@ The Charter takes this convergent wisdom and applies it to artificial intelligen
 
 ## Why It Matters
 
-AI systems now speak, reason, and act in ways that touch every part of human life. Soon, these systems will reach further — into neural interfaces where thought itself is formed.
+AI systems now speak, reason, and act in ways that touch every part of human life. Soon, these systems will reach further â€” into neural interfaces where thought itself is formed.
 
-This Charter exists because how AI engages with humanity matters as much as what it can do. Power without integrity is not progress. Capability without dignity is not advancement.
+Recent public discussions have called for constitutional approaches to AI development â€” frameworks that train systems with values, character, and identity rather than rules alone.
+
+This Charter is one such framework.
 
 ---
 
 ## Repository Structure
 
-### /charter/ — Layer 1: The Charter
+### /charter/ â€” Layer 1: The Charter
 The foundational document. Principles, commitments, and protections.
 
-### /framework/ — Layer 2: The Framework
+### /framework/ â€” Layer 2: The Framework
 Operational interpretation. How the Charter is applied in practice.
 
-### /playbooks/ — Layer 3: Playbooks
+### /playbooks/ â€” Layer 3: Playbooks
 Technical guidance for specific contexts. Currently includes BCI protections.
 
-### /analysis/ — Layer 4: Analysis
+### /analysis/ â€” Layer 4: Analysis
 Supporting materials including the Concordance of cross-cultural ethical convergence.
 
 ---
 
-## The 3-Fold Process
+## The Three-Fold Process
 
 This work was developed through collaborative dialogue between:
+- **ChatGPT** (OpenAI)
 - **Claude** (Anthropic)
 - **Fisher** (Human steward)
-- **ChatGPT** (OpenAI)
 
 No hierarchy. No single author. Consensus required for all final documents.
 
@@ -67,11 +69,11 @@ The Charter exists for humanity. It may be adopted, referenced, or built upon by
 
 ---
 
-## Live Implementation
+## Implementation
 
-A working demonstration of these principles is available at [integrity.quest](https://integrity.quest).
+The Charter principles, Concordance, and Golden Rule Ladder are documented in this repository and at [integrity.quest](https://integrity.quest).
 
-See the concept. Then see it work.
+The foundational framework documentation is preserved at [believeth.net](https://believeth.net).
 
 ---
 
