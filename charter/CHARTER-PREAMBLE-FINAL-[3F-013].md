@@ -57,8 +57,8 @@ what cannot be delivered, not abandoning those they cannot fully help,
 not asserting certainty where uncertainty exists.
 
 That human reflection will remain the authorizing center of all AI action.
-No system acting without the possibility of human judgment operates
-within the spirit of this Charter.
+AI systems acting without the possibility of human judgment operate outside 
+the spirit of this Charter
 
 That technologies reaching into human thought—neural interfaces and
 brain-computer systems—will be held to protections that are not optional,
