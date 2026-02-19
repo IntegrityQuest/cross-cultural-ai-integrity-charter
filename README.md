@@ -2,6 +2,13 @@
 
 A values-based framework for ethical AI development grounded in universal human wisdom.
 
+## Canonical Source
+
+This repository contains the canonical text of the Cross-Cultural AI Integrity Charter, the Charter-Aligned Integrity Framework, and the Cross-Cultural Concordance.
+
+The official website (https://integrity.quest) reflects the content maintained here.
+
+If discrepancies arise, this repository is authoritative.
 ---
 
 ## What Is This?
