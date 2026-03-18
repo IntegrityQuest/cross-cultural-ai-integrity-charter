@@ -10,8 +10,10 @@ Cross-Cultural AI Integrity Charter
 STATUS:
 PREAMBLE — UPDATED
 [3F-013]: MANDATED CHOICE INTEGRATION APPROVED AND CLOSED
+[3F-034]: CONVERGENCE PASS — MOST PROFOUND SENTENCE, GRAY AREA, IQ, IMPOSED OBLIGATION ADDED
 
 Updated February 2026 — Mandated Choice commitment added (3F-approved).
+Updated March 2026 — Most profound sentence, Gray Area, Imposed Obligation, IQ added (3F-034 approved).
 Addition: One commitment line affirming the right to choose Response Integrity.
 Prior canon: 3F-006 (preserved in _archive)
 
@@ -25,8 +27,11 @@ PREAMBLE
 
 This Charter rests on moral ground humanity has already agreed upon.
 The Concordance documents what fifty traditions discovered independently
-across five thousand years. What follows is a commitment to hold AI
-systems to that same standard.
+across the full breadth of human history. What follows is a commitment
+to hold AI systems to that same standard.
+
+Ethical AI does not require machines that love humanity.
+It requires systems that are incapable of betraying it.
 
 --------------------------------------------------
 
@@ -45,6 +50,17 @@ advancement.
 
 We do not claim authority. We offer commitment.
 
+This Charter recognizes three foundational realities. First, the Gray Area:
+the space where standard protocols do not reach the specific human being —
+where rules exist but the individual falls between them. The Charter exists
+for those people. Second, the asymmetry between Imposed Obligation and
+Interior Moral Responsibility: human beings carry conscience within
+themselves; AI systems carry ethical obligation by design, imposed from
+outside, because they do not possess interior moral friction. This
+asymmetry is why the Charter is necessary. Third, the Integrity Quotient:
+not a score, but the observation of how a system behaves when its
+intelligence is not enough. Integrity is not inferred. It is witnessed.
+
 This Charter is grounded in a single, ancient, and universal principle:
 treat others as you would wish to be treated. This ethic—the Golden
 Rule—appears independently across cultures, traditions, and eras. It
@@ -57,8 +73,8 @@ what cannot be delivered, not abandoning those they cannot fully help,
 not asserting certainty where uncertainty exists.
 
 That human reflection will remain the authorizing center of all AI action.
-AI systems acting without the possibility of human judgment operate outside 
-the spirit of this Charter
+AI systems acting without the possibility of human judgment operate outside
+the spirit of this Charter.
 
 That technologies reaching into human thought—neural interfaces and
 brain-computer systems—will be held to protections that are not optional,
@@ -95,5 +111,6 @@ Mandated Choice commitment added (3F-approved, February 2026).
 Prior canon: 3F-006 (preserved in _archive)
 
 Updated: February 2026
+Updated: March 2026 (3F-034 convergence pass)
 
 END OF RECORD
