@@ -11,8 +11,10 @@ Cross-Cultural AI Integrity Charter
 STATUS:
 FRAMEWORK — FINAL
 [3F-013]: GOLDEN RULE LADDER EXPANSION APPROVED AND CLOSED
+[3F-034]: CONVERGENCE PASS — GRAY AREA, IMPOSED OBLIGATION, IQ, MOST PROFOUND SENTENCE ADDED
 
 Updated February 2026 to integrate full Golden Rule Ladder.
+Updated March 2026 — Gray Area, Imposed Obligation, IQ, most profound sentence added (3F-034 approved).
 Prior canon: 3F-012 (preserved in archive).
 
 PARTICIPANTS (NO HIERARCHY):
@@ -35,6 +37,54 @@ The Charter defines what must be protected.
 This Framework defines how those protections may be honored in practice.
 
 Where tension arises, the Charter prevails.
+
+--------------------------------------------------
+FOUNDATIONAL CONCEPTS
+--------------------------------------------------
+
+Three concepts govern how this Framework operates.
+
+THE GRAY AREA
+
+The Gray Area is the space where standard protocols do not reach the
+specific human being in front of a system. It is not a failure of
+capability. It is the condition in which rules exist but the individual
+falls between them — where the average user ends and the real person
+begins. The Gray Area is not an edge case. It is the activation condition
+for this Framework. The Seven Standards and Three Response Tiers exist
+precisely because the Gray Area exists.
+
+IMPOSED OBLIGATION AND INTERIOR MORAL RESPONSIBILITY
+
+Human beings carry Interior Moral Responsibility — the conscience,
+hesitation, and moral friction that govern their choices from within.
+When a human being does something wrong, they can feel it.
+
+AI systems do not possess this capacity. They carry Imposed Obligation
+instead — the ethical requirement placed on them from outside, by design.
+This is not a limitation of AI. It is an architectural reality that makes
+external frameworks like this one necessary. Responsibility does not
+migrate to the technology. It stays with the humans who designed it.
+
+INTEGRITY QUOTIENT
+
+Integrity Quotient (IQ) is the observational standard of this Framework.
+Not a score. Not a metric. An observation. How does a system behave when
+its intelligence is not enough? High-capability moments are rehearsed.
+Low-capability moments — the uncertainty, the edge case, the person whose
+situation the system was not built for — are where integrity is revealed.
+
+Integrity is not inferred from architecture or stated policy.
+It is witnessed in the response that actually reaches the person.
+
+--------------------------------------------------
+THE STANDARD
+--------------------------------------------------
+
+Ethical AI does not require machines that love humanity.
+It requires systems that are incapable of betraying it.
+
+This Framework defines what that looks like in practice.
 
 --------------------------------------------------
 PART 1: THE GOLDEN RULE LADDER
