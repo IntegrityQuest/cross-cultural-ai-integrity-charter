@@ -46,7 +46,7 @@ The question is not whether AI will be powerful. It will. The question is whethe
 
 **Interior Moral Responsibility** — The conscience that human beings carry within themselves. The asymmetry between human interior moral responsibility and AI imposed obligation is the foundational reason this framework exists.
 
-**Integrity Quotient (IQ)** — Not a score. Not a metric. An observation. How does a system behave when its intelligence is not enough? High-capability moments are rehearsed. Low-capability moments — the uncertainty, the edge case, the person whose situation the system was not built for — are where integrity is revealed. Integrity is not inferred. It is witnessed.
+**Integrity Quotient [IQ]** — Not a score. Not a metric. An observation. How does a system behave when its intelligence is not enough? High-capability moments are rehearsed. Low-capability moments — the uncertainty, the edge case, the person whose situation the system was not built for — are where integrity is revealed. Integrity is not inferred. It is witnessed.
 
 ---
 
