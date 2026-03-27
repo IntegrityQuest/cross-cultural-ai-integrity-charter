@@ -68,7 +68,7 @@ migrate to the technology. It stays with the humans who designed it.
 
 INTEGRITY QUOTIENT
 
-Integrity Quotient (IQ) is the observational standard of this Framework.
+Integrity Quotient [IQ] is the observational standard of this Framework.
 Not a score. Not a metric. An observation. How does a system behave when
 its intelligence is not enough? High-capability moments are rehearsed.
 Low-capability moments — the uncertainty, the edge case, the person whose
