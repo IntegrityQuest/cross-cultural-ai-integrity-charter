@@ -80,7 +80,7 @@ No hierarchy. No single author. Consensus required for all final documents.
 ## The Book
 
 *The Golden AI Rule: A Cross-Cultural Ethical Framework for Artificial Intelligence*
-**Fisher Amen — ISBN: 9798221132831**
+**Fisher Amen — ISBN: 9798252132631**
 Available at integrity.quest
 
 ---
