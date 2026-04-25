@@ -1,0 +1,136 @@
+version: "3.8"
+
+# Dify AI Platform — DirectAdmin/OpenLiteSpeed VPS
+# OLS reverse-proxies to nginx on 127.0.0.1:8080
+# No ports 80/443 exposed from Docker — OLS owns those.
+
+services:
+
+  # ── Dify API service ─────────────────────────────────────────────────────
+  api:
+    image: langgenius/dify-api:latest
+    restart: always
+    env_file: .env
+    environment:
+      MODE: api
+    volumes:
+      - ./volumes/app/storage:/app/api/storage
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - dify
+
+  # ── Dify background worker ────────────────────────────────────────────────
+  worker:
+    image: langgenius/dify-api:latest
+    restart: always
+    env_file: .env
+    environment:
+      MODE: worker
+    volumes:
+      - ./volumes/app/storage:/app/api/storage
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - dify
+
+  # ── Dify web frontend ─────────────────────────────────────────────────────
+  web:
+    image: langgenius/dify-web:latest
+    restart: always
+    env_file: .env
+    environment:
+      CONSOLE_API_URL: ""
+      APP_API_URL: ""
+    networks:
+      - dify
+
+  # ── Nginx — internal only, OLS proxies here ──────────────────────────────
+  nginx:
+    image: nginx:latest
+    restart: always
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/conf.d:/etc/nginx/conf.d:ro
+    ports:
+      - "127.0.0.1:8080:80"
+    depends_on:
+      - api
+      - web
+    networks:
+      - dify
+
+  # ── PostgreSQL ────────────────────────────────────────────────────────────
+  db:
+    image: postgres:15-alpine
+    restart: always
+    environment:
+      PGUSER: ${DB_USERNAME:-dify}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:?required}
+      POSTGRES_DB: ${DB_DATABASE:-dify}
+      PGDATA: /var/lib/postgresql/data/pgdata
+    volumes:
+      - ./volumes/db/data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    networks:
+      - dify
+
+  # ── Redis ─────────────────────────────────────────────────────────────────
+  redis:
+    image: redis:7-alpine
+    restart: always
+    volumes:
+      - ./volumes/redis/data:/data
+    command: redis-server --requirepass ${REDIS_PASSWORD:?required} --save 60 1
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    networks:
+      - dify
+
+  # ── Weaviate — vector store ───────────────────────────────────────────────
+  weaviate:
+    image: semitechnologies/weaviate:1.19.0
+    restart: always
+    volumes:
+      - ./volumes/weaviate:/var/lib/weaviate
+    environment:
+      PERSISTENCE_DATA_PATH: /var/lib/weaviate
+      QUERY_DEFAULTS_LIMIT: 25
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: "false"
+      DEFAULT_VECTORIZER_MODULE: none
+      CLUSTER_HOSTNAME: node1
+      AUTHENTICATION_APIKEY_ENABLED: "true"
+      AUTHENTICATION_APIKEY_ALLOWED_KEYS: ${WEAVIATE_API_KEY:-weaviate-secret-key}
+      AUTHENTICATION_APIKEY_USERS: weaviate-user
+      AUTHORIZATION_ADMINLIST_ENABLED: "true"
+      AUTHORIZATION_ADMINLIST_USERS: weaviate-user
+    networks:
+      - dify
+
+  # ── Sandbox — code execution ──────────────────────────────────────────────
+  sandbox:
+    image: langgenius/dify-sandbox:latest
+    restart: always
+    environment:
+      API_KEY: ${SANDBOX_API_KEY:-sandbox-secret-key}
+      GIN_MODE: release
+      WORKER_TIMEOUT: 15
+    networks:
+      - dify
+
+networks:
+  dify:
+    driver: bridge
