@@ -69,6 +69,12 @@ Technical guidance for specific contexts. Currently includes BCI protections.
 ### /analysis/ — Layer 4: Analysis
 Supporting materials including the Concordance of fifty cross-cultural traditions.
 
+### /book/ — The Golden AI Rule
+Companion volume by Fisher Amen. ISBN: 9798252132631. Available at integrity.quest.
+
+### /session-summaries/ — Working Record
+Decisions, configurations, and context from development sessions.
+
 ---
 
 ## The Three-Fold Process
