@@ -52,6 +52,11 @@ The question is not whether AI will be powerful. It will. The question is whethe
 
 ## Repository Structure
 
+### SOUL.md — Ethical Baseline (Layer 1 Implementation)
+A drop-in ethical floor for AI agents. Place beneath any Layer 2/3 personality
+customization. Contains the Golden Rule Ladder, Seven Standards, Response
+Integrity commitments, and Presence Without Abandonment. CC BY 4.0.
+
 ### /charter/ — Layer 1: The Charter
 The foundational document. Principles, commitments, and protections.
 
