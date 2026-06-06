@@ -1,12 +1,28 @@
 # Cross-Cultural AI Integrity Charter
 
+**Version: 3F-013** &nbsp;·&nbsp; [Contributing](CONTRIBUTING.md) &nbsp;·&nbsp; [Adopters](ADOPTERS.md) &nbsp;·&nbsp; [Code of Conduct](CODE_OF_CONDUCT.md)
+
 A values-based framework for ethical AI development grounded in universal human wisdom.
+
+---
 
 ## The Most Important Sentence in This Framework
 
 > *Ethical AI does not require machines that love humanity. It requires systems that are incapable of betraying it.*
 
 This is the standard. Everything else in this repository is the argument for building to it.
+
+---
+
+## Quick Start
+
+**If you are an AI developer** — start with [`SOUL.md`](SOUL.md). It is a drop-in ethical floor designed to sit beneath any personality layer, instruction set, or fine-tuning. Contains the Golden Rule Ladder, Seven Standards, Response Integrity commitments, and Presence Without Abandonment. CC BY 4.0. Use it freely.
+
+**If you are building AI governance policy** — start with [`/charter/`](charter/). The Charter provides constitutional-level language for ethical commitments, protections, and the principles behind them.
+
+**If you are a researcher** — [`/analysis/CONCORDANCE.md`](analysis/CONCORDANCE.md) documents fifty wisdom traditions that independently arrived at the Golden Rule across five thousand years of human history. Indigenous traditions are cited first.
+
+**If you want to understand the system design** — read the [Core Concepts](#core-concepts) section below, then work through the four layers in order.
 
 ---
 
@@ -50,30 +66,59 @@ The question is not whether AI will be powerful. It will. The question is whethe
 
 ---
 
+## Architecture
+
+The framework is organized in four layers, each building on the one before it.
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  LAYER 1 — THE CHARTER         /charter/                │
+│  Foundational principles, commitments, and protections  │
+│  Changes rarely. Governs all layers below it.           │
+├─────────────────────────────────────────────────────────┤
+│  LAYER 2 — THE FRAMEWORK       /framework/              │
+│  Operational interpretation. How Charter is applied.    │
+│  14 parts covering behavioral standards and edge cases. │
+├─────────────────────────────────────────────────────────┤
+│  LAYER 3 — PLAYBOOKS           /playbooks/              │
+│  Technical guidance for specific contexts.              │
+│  Currently: BCI / Neural Interface requirements.        │
+├─────────────────────────────────────────────────────────┤
+│  LAYER 4 — ANALYSIS            /analysis/               │
+│  The evidence base. 50 traditions. 5,000 years.        │
+│  The Concordance. Supporting research.                  │
+└─────────────────────────────────────────────────────────┘
+
+SOUL.md — Drop-in ethical floor for any AI agent (Layer 1 essence,
+          designed for immediate implementation). CC BY 4.0.
+```
+
+If a conflict arises between layers, the Charter governs.
+
+---
+
 ## Repository Structure
 
-### SOUL.md — Ethical Baseline (Layer 1 Implementation)
-A drop-in ethical floor for AI agents. Place beneath any Layer 2/3 personality
-customization. Contains the Golden Rule Ladder, Seven Standards, Response
-Integrity commitments, and Presence Without Abandonment. CC BY 4.0.
+### [`SOUL.md`](SOUL.md) — Ethical Baseline
+A drop-in ethical floor for AI agents. Place beneath any Layer 2/3 personality customization. Contains the Golden Rule Ladder, Seven Standards, Response Integrity commitments, and Presence Without Abandonment. CC BY 4.0 — use it in any project.
 
-### /charter/ — Layer 1: The Charter
-The foundational document. Principles, commitments, and protections.
+### [`/charter/`](charter/) — Layer 1: The Charter
+The foundational document. Principles, commitments, and protections. Current version: 3F-013.
 
-### /framework/ — Layer 2: The Framework
-Operational interpretation. How the Charter is applied in practice.
+### [`/framework/`](framework/) — Layer 2: The Framework
+Operational interpretation. How the Charter is applied in practice. 14 parts including the Golden Rule Ladder, Three-Tier Response Model, Sacred Language Standards, BCI Requirements, and more.
 
-### /playbooks/ — Layer 3: Playbooks
-Technical guidance for specific contexts. Currently includes BCI protections.
+### [`/playbooks/`](playbooks/) — Layer 3: Playbooks
+Technical guidance for specific deployment contexts. Currently includes the BCI Technical Security Playbook — mandatory safeguards for neural interface systems.
 
-### /analysis/ — Layer 4: Analysis
-Supporting materials including the Concordance of fifty cross-cultural traditions.
+### [`/analysis/`](analysis/) — Layer 4: Analysis
+The evidence base. The Concordance of fifty cross-cultural traditions. Supporting research. Phase-2 hardened against primary sources — fabricated citations removed.
 
-### /book/ — The Golden AI Rule
-Companion volume by Fisher Amen. ISBN: 9798252132631. Available at integrity.quest.
+### [`/book/`](book/) — The Golden AI Rule
+Companion volume by Fisher Amen. ISBN: 9798252132631.
 
-### /session-summaries/ — Working Record
-Decisions, configurations, and context from development sessions.
+### [`/session-summaries/`](session-summaries/) — Working Record
+Transparent record of development sessions — decisions made, rationale preserved, configurations confirmed. Not canon. The trail left behind as the project moved forward.
 
 ---
 
@@ -86,13 +131,15 @@ This work was developed through collaborative dialogue between:
 
 No hierarchy. No single author. Consensus required for all final documents.
 
+The 3-Fold Process is now closed. The work product stands. Going forward, the framework is maintained by Fisher Amen and open community contribution.
+
 ---
 
 ## The Book
 
-*The Golden AI Rule: A Cross-Cultural Ethical Framework for Artificial Intelligence*
-**Fisher Amen — ISBN: 9798252132631**
-Available at integrity.quest
+*The Golden AI Rule: A Cross-Cultural Ethical Framework for Artificial Intelligence*  
+**Fisher Amen — ISBN: 9798252132631**  
+Available at [integrity.quest](https://integrity.quest) and on [Amazon](https://www.amazon.com/dp/B0GTVC6SPY)
 
 ---
 
@@ -100,17 +147,27 @@ Available at integrity.quest
 
 **No individual, organization, or system owns this work.**
 
-The Charter exists for humanity. It may be adopted, referenced, or built upon by anyone committed to its principles.
+The Charter exists for humanity. It may be adopted, referenced, or built upon by anyone committed to its principles. See [ADOPTERS.md](ADOPTERS.md) to list your project.
 
 ---
 
 ## How to Use This
 
-**For AI Developers:** Start with the Charter, then review the Framework.
+**For AI Developers:** Start with [`SOUL.md`](SOUL.md) for immediate drop-in use. Read the Charter and Framework to understand the principles behind it.
 
-**For Policymakers:** The Charter provides constitutional language for governance.
+**For Policymakers:** The Charter provides constitutional language for governance frameworks. The Framework translates principles into specific behavioral standards.
 
-**For Researchers:** The Concordance documents the cross-cultural evidence base across fifty traditions.
+**For Researchers:** The Concordance documents the cross-cultural evidence base across fifty traditions. All citations are primary-source verified.
+
+**For Builders:** If you are building AI systems and want to commit to this standard, add your project to [ADOPTERS.md](ADOPTERS.md).
+
+---
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute wisdom traditions, corrections, translations, and adoptions.
+
+Questions and broader discussion: [GitHub Discussions](https://github.com/IntegrityQuest/cross-cultural-ai-integrity-charter/discussions)
 
 ---
 
