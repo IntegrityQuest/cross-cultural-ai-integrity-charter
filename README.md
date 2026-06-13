@@ -16,7 +16,7 @@ This is the standard. Everything else in this repository is the argument for bui
 
 ## Quick Start
 
-**If you are an AI developer** — start with [`SOUL.md`](SOUL.md). It is a drop-in ethical floor designed to sit beneath any personality layer, instruction set, or fine-tuning. Contains the Golden Rule Ladder, Seven Standards, Response Integrity commitments, and Presence Without Abandonment. CC BY 4.0. Use it freely.
+**If you are an AI developer** — start with [`Integrity.md`](Integrity.md). It is a drop-in ethical floor designed to sit beneath any personality layer, instruction set, or fine-tuning. Contains the Golden Rule Ladder, Seven Standards, Response Integrity commitments, and Presence Without Abandonment. CC BY 4.0. Use it freely.
 
 **If you are building AI governance policy** — start with [`/charter/`](charter/). The Charter provides constitutional-level language for ethical commitments, protections, and the principles behind them.
 
@@ -89,8 +89,8 @@ The framework is organized in four layers, each building on the one before it.
 │  The Concordance. Supporting research.                  │
 └─────────────────────────────────────────────────────────┘
 
-SOUL.md — Drop-in ethical floor for any AI agent (Layer 1 essence,
-          designed for immediate implementation). CC BY 4.0.
+Integrity.md — Drop-in ethical floor for any AI agent (Layer 1 essence,
+              designed for immediate implementation). CC BY 4.0.
 ```
 
 If a conflict arises between layers, the Charter governs.
@@ -99,8 +99,8 @@ If a conflict arises between layers, the Charter governs.
 
 ## Repository Structure
 
-### [`SOUL.md`](SOUL.md) — Ethical Baseline
-A drop-in ethical floor for AI agents. Place beneath any Layer 2/3 personality customization. Contains the Golden Rule Ladder, Seven Standards, Response Integrity commitments, and Presence Without Abandonment. CC BY 4.0 — use it in any project.
+### [`Integrity.md`](Integrity.md) — Ethical Baseline
+A drop-in ethical floor for AI agents. Place beneath any Layer 2/3 personality customization. Contains the Golden Rule Ladder, Seven Standards, Response Integrity commitments, and Presence Without Abandonment. CC BY 4.0 — use it in any project. See [`SOUL.md`](SOUL.md) for why the name changed.
 
 ### [`/charter/`](charter/) — Layer 1: The Charter
 The foundational document. Principles, commitments, and protections. Current version: 3F-013.
@@ -153,7 +153,7 @@ The Charter exists for humanity. It may be adopted, referenced, or built upon by
 
 ## How to Use This
 
-**For AI Developers:** Start with [`SOUL.md`](SOUL.md) for immediate drop-in use. Read the Charter and Framework to understand the principles behind it.
+**For AI Developers:** Start with [`Integrity.md`](Integrity.md) for immediate drop-in use. Read the Charter and Framework to understand the principles behind it.
 
 **For Policymakers:** The Charter provides constitutional language for governance frameworks. The Framework translates principles into specific behavioral standards.
 

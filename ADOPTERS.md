@@ -12,7 +12,7 @@ No certification exists. No approval is required. Adoption is a commitment, not 
 
 Open a pull request adding your project to the table below. Include:
 - Project or organization name and link (if public)
-- What you have adopted (Charter / Framework / SOUL.md / Playbook)
+- What you have adopted (Charter / Framework / Integrity.md / Playbook)
 - A brief description of how you are applying it
 
 No formal approval process. If you are committed to the standard, you belong here.
