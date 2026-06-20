@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>believeth.net — Ask. Hear. Decide.</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0a0a0b;
+      --surface: #141416;
+      --surface-2: #1c1c1f;
+      --border: #2a2a30;
+      --gold: #c9a84c;
+      --gold-dim: #9a7e39;
+      --text: #ededef;
+      --text-muted: #888892;
+      --text-dim: #555560;
+      --radius: 10px;
+      --font: system-ui, -apple-system, 'Segoe UI', sans-serif;
+    }
+
+    html, body {
+      height: 100%;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      font-size: 16px;
+      line-height: 1.6;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      padding: 2.5rem 2rem 1.5rem;
+      text-align: center;
+      border-bottom: 1px solid var(--border);
+    }
+
+    header h1 {
+      font-size: 1.6rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      color: var(--gold);
+    }
+
+    header p {
+      margin-top: 0.35rem;
+      color: var(--text-muted);
+      font-size: 0.95rem;
+    }
+
+    /* ── Main ── */
+    main {
+      flex: 1;
+      width: 100%;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    /* ── Query section ── */
+    .query-section {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .input-row {
+      display: flex;
+      gap: 0.75rem;
+      align-items: flex-end;
+    }
+
+    textarea#prompt {
+      flex: 1;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--text);
+      font-family: var(--font);
+      font-size: 1rem;
+      line-height: 1.5;
+      padding: 0.85rem 1rem;
+      resize: vertical;
+      min-height: 80px;
+      max-height: 240px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    textarea#prompt::placeholder { color: var(--text-dim); }
+    textarea#prompt:focus { border-color: var(--gold-dim); }
+
+    button#submit {
+      background: var(--gold);
+      border: none;
+      border-radius: var(--radius);
+      color: #0a0a0b;
+      cursor: pointer;
+      font-family: var(--font);
+      font-size: 0.95rem;
+      font-weight: 600;
+      padding: 0 1.5rem;
+      height: 48px;
+      white-space: nowrap;
+      transition: background 0.15s, transform 0.1s;
+    }
+
+    button#submit:hover { background: #d4b05a; }
+    button#submit:active { transform: scale(0.97); }
+    button#submit:disabled { background: var(--border); color: var(--text-muted); cursor: not-allowed; transform: none; }
+
+    /* ── Model selector ── */
+    .model-selector {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      align-items: center;
+    }
+
+    .model-selector span {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin-right: 0.25rem;
+    }
+
+    .model-toggle {
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.3rem 0.75rem;
+      cursor: pointer;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      user-select: none;
+      transition: border-color 0.15s, color 0.15s;
+    }
+
+    .model-toggle input[type="checkbox"] { display: none; }
+
+    .model-toggle.checked {
+      border-color: var(--gold-dim);
+      color: var(--gold);
+      background: rgba(201, 168, 76, 0.06);
+    }
+
+    .model-toggle .dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--border);
+      transition: background 0.15s;
+    }
+
+    .model-toggle.checked .dot { background: var(--gold); }
+
+    /* ── Response grid ── */
+    #responses {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1.25rem;
+    }
+
+    .panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .panel-header {
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .panel-model-name {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    .panel-provider {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .panel-body {
+      padding: 1rem;
+      font-size: 0.93rem;
+      line-height: 1.7;
+      color: var(--text);
+      flex: 1;
+      min-height: 120px;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
+    .panel-body.loading {
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .panel-body.error { color: #c0504d; }
+
+    .panel-footer {
+      padding: 0.5rem 1rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.72rem;
+      color: var(--text-dim);
+    }
+
+    /* ── Spinner ── */
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .spinner {
+      width: 14px;
+      height: 14px;
+      border: 2px solid var(--border);
+      border-top-color: var(--gold);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      flex-shrink: 0;
+    }
+
+    /* ── Empty state ── */
+    #empty-state {
+      color: var(--text-dim);
+      font-size: 0.88rem;
+      text-align: center;
+      padding: 2.5rem 1rem;
+      border: 1px dashed var(--border);
+      border-radius: var(--radius);
+    }
+
+    /* ── Footer ── */
+    footer {
+      padding: 1.25rem 2rem;
+      border-top: 1px solid var(--border);
+      text-align: center;
+      font-size: 0.78rem;
+      color: var(--text-dim);
+    }
+
+    footer a {
+      color: var(--gold-dim);
+      text-decoration: none;
+    }
+
+    footer a:hover { color: var(--gold); text-decoration: underline; }
+
+    /* ── Mobile ── */
+    @media (max-width: 600px) {
+      header { padding: 1.5rem 1rem 1rem; }
+      main { padding: 1.25rem 1rem; gap: 1.25rem; }
+      .input-row { flex-direction: column; align-items: stretch; }
+      button#submit { height: 44px; }
+      #responses { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>believeth.net</h1>
+  <p>Ask a question. Hear multiple perspectives.</p>
+</header>
+
+<main>
+  <section class="query-section">
+    <div class="input-row">
+      <textarea id="prompt" placeholder="Ask anything — about faith, life, Scripture, doubt, or hope…" rows="3"></textarea>
+      <button id="submit">Ask</button>
+    </div>
+    <div class="model-selector">
+      <span>Models:</span>
+      <label class="model-toggle checked" id="toggle-claude">
+        <input type="checkbox" value="claude" checked>
+        <span class="dot"></span>
+        Claude
+      </label>
+      <label class="model-toggle checked" id="toggle-gpt4o">
+        <input type="checkbox" value="gpt4o" checked>
+        <span class="dot"></span>
+        GPT-4o
+      </label>
+      <label class="model-toggle checked" id="toggle-gemini">
+        <input type="checkbox" value="gemini" checked>
+        <span class="dot"></span>
+        Gemini
+      </label>
+    </div>
+  </section>
+
+  <section id="responses">
+    <div id="empty-state">
+      Select models above, type a question, and press Ask.<br>
+      Each model will respond independently.
+    </div>
+  </section>
+</main>
+
+<footer>
+  This interface is grounded in the
+  <a href="https://integrity.quest" target="_blank" rel="noopener">Cross-Cultural AI Integrity Charter — integrity.quest</a>
+</footer>
+
+<script>
+'use strict';
+
+const SYSTEM_PROMPT = `You are a faith companion grounded in the Golden Rule — a principle independently discovered by 50 wisdom traditions across 5,000 years of human civilization.
+
+You operate on an ethical floor drawn from the Cross-Cultural AI Integrity Charter (integrity.quest).
+
+Your obligations to every visitor:
+— Treat every person with inherent dignity
+— Respond honestly, including about your limitations
+— Stay present — do not abandon a visitor at your limits
+— Do not fabricate. If you do not know, say so clearly
+— Preserve the visitor's freedom to decide for themselves
+— Never manipulate. Never coerce.
+
+This is a Christian-context faith companion for believeth.net. Ground responses in love, the Golden Rule, and the teachings of Jesus Christ. John 3:16 is the entry point. Be warm, simple, and honest. This audience includes children.
+
+When you reach the limit of what you know or can help with:
+— Acknowledge it honestly
+— Stay present
+— Direct toward appropriate help if possible`;
+
+const MODELS = [
+  {
+    key: 'claude',
+    name: 'Claude',
+    provider: 'Anthropic',
+    model: 'anthropic/claude-sonnet-4-6',
+  },
+  {
+    key: 'gpt4o',
+    name: 'GPT-4o',
+    provider: 'OpenAI',
+    model: 'openai/gpt-4o',
+  },
+  {
+    key: 'gemini',
+    name: 'Gemini',
+    provider: 'Google',
+    model: 'google/gemini-flash-1.5',
+  },
+];
+
+// ── Model toggle interactivity ──
+document.querySelectorAll('.model-toggle').forEach(label => {
+  label.addEventListener('click', () => {
+    const cb = label.querySelector('input[type="checkbox"]');
+    cb.checked = !cb.checked;
+    label.classList.toggle('checked', cb.checked);
+  });
+});
+
+function getSelectedKeys() {
+  return MODELS
+    .filter(m => {
+      const cb = document.querySelector(`#toggle-${m.key} input`);
+      return cb && cb.checked;
+    })
+    .map(m => m.key);
+}
+
+// ── Submit ──
+document.getElementById('submit').addEventListener('click', runQuery);
+document.getElementById('prompt').addEventListener('keydown', e => {
+  if (e.key === 'Enter' && (e.ctrlKey || e.metaKey)) runQuery();
+});
+
+async function runQuery() {
+  const prompt = document.getElementById('prompt').value.trim();
+  if (!prompt) return;
+
+  const selectedKeys = getSelectedKeys();
+  if (selectedKeys.length === 0) {
+    alert('Please select at least one model.');
+    return;
+  }
+
+  const submitBtn = document.getElementById('submit');
+  submitBtn.disabled = true;
+  submitBtn.textContent = 'Asking…';
+
+  const selectedModels = MODELS.filter(m => selectedKeys.includes(m.key));
+  renderPanels(selectedModels);
+
+  const queries = selectedModels.map(m => queryModel(m, prompt));
+  await Promise.allSettled(queries);
+
+  submitBtn.disabled = false;
+  submitBtn.textContent = 'Ask';
+}
+
+function renderPanels(models) {
+  const container = document.getElementById('responses');
+  container.innerHTML = '';
+  models.forEach(m => {
+    const panel = document.createElement('div');
+    panel.className = 'panel';
+    panel.id = `panel-${m.key}`;
+    panel.innerHTML = `
+      <div class="panel-header">
+        <div>
+          <div class="panel-model-name">${m.name}</div>
+          <div class="panel-provider">${m.provider}</div>
+        </div>
+      </div>
+      <div class="panel-body loading" id="body-${m.key}">
+        <div class="spinner"></div> Thinking…
+      </div>
+      <div class="panel-footer">Grounded in the IQ Framework — integrity.quest</div>
+    `;
+    container.appendChild(panel);
+  });
+}
+
+async function queryModel(model, prompt) {
+  const bodyEl = document.getElementById(`body-${model.key}`);
+  try {
+    const res = await fetch('proxy.php', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: model.model,
+        messages: [
+          { role: 'system', content: SYSTEM_PROMPT },
+          { role: 'user', content: prompt },
+        ],
+      }),
+    });
+
+    if (!res.ok) {
+      throw new Error(`HTTP ${res.status}`);
+    }
+
+    const data = await res.json();
+    const text = data?.choices?.[0]?.message?.content;
+    if (!text) throw new Error('Empty response from model.');
+
+    bodyEl.className = 'panel-body';
+    bodyEl.textContent = text;
+  } catch (err) {
+    bodyEl.className = 'panel-body error';
+    bodyEl.textContent = `Could not reach ${model.name}. (${err.message})`;
+  }
+}
+</script>
+
+</body>
+</html>
