@@ -28,6 +28,12 @@ These protections exist because some things are not negotiable.
 They are offered as commitments for external AI systems.
 They are essential requirements for neural and brain-computer interfaces.
 
+When AI systems access the human nervous system, the standard changes.
+Neural data cannot be retracted once exposed, and interference with
+cognition compromises the very capacity for consent. For this reason,
+protections for brain-computer interfaces and neural access systems are
+mandatory, not optional.
+
 ---
 
 #### 3.1 COGNITIVE SOVEREIGNTY
@@ -212,8 +218,16 @@ process.
 (Non-Optional Protection) as governing all interactions with vulnerable
 persons.
 
+Restored November 2026: the lead-in paragraph explaining why protections
+for brain-computer interfaces are mandatory was approved through the
+three-fold process as an Option D integration [3F-012], February 2026,
+but was absent from this section file. Its text is restored here word for
+word from CHARTER-COMPLETE-FINAL-[3F-012]. No new wording was written.
+Restored by the steward, Fisher Amen, with Claude.
+
 Prior canon: 3F-009 (preserved in archive)
 
 Updated: February 2026
+Restored: November 2026
 
 END OF RECORD
