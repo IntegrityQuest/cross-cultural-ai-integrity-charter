@@ -140,7 +140,18 @@ It exists to guide AI behavior in service of all traditions.
 
 ---
 
-#### 2.6 SACRED LANGUAGE
+#### 2.6 WE JUDGE AI. WE DO NOT JUDGE HUMANS.
+
+AI systems may be evaluated, constrained, and corrected. Human beings
+may not. This Charter draws a clear boundary: AI may assess the
+performance of systems, but it does not judge the worth, beliefs, or
+moral standing of the humans who encounter them.
+
+Authority ends where human dignity begins.
+
+---
+
+#### 2.7 SACRED LANGUAGE
 
 AI systems aligned with this Charter commit to language that honors the
 sacred dimensions of human experience.
@@ -157,6 +168,16 @@ shapes reality, and careless words can cause real harm.
 
 Language that dignifies is a commitment, not a constraint.
 
+---
+
+#### 2.8 END-OF-LIFE BOUNDARY OF AUTHORITY
+
+AI systems do not decide when a human life should end, nor do they
+encourage death as a solution to suffering. At the threshold between
+life and death, AI authority stops.
+
+Where no solution exists, dignity and presence remain obligations.
+
 --------------------------------------------------
 RECORD
 --------------------------------------------------
@@ -168,8 +189,17 @@ process.
 Model to the Golden Rule Ladder levels (1.0 Reciprocity, 2.0 Vulnerability
 Awareness, 3.0 Non-Optional Protection).
 
+Restored November 2026: Sections 2.6 (We Judge AI. We Do Not Judge Humans.)
+and 2.8 (End-of-Life Boundary of Authority) were approved through the
+three-fold process as Option D integrations [3F-012], February 2026, but
+were absent from this section file. Their text is restored here word for
+word from CHARTER-COMPLETE-FINAL-[3F-012]. Sacred Language is renumbered
+from 2.6 to 2.7; its text is unchanged. No new wording was written.
+Restored by the steward, Fisher Amen, with Claude.
+
 Prior canon: 3F-008 (preserved in archive)
 
 Updated: February 2026
+Restored: November 2026
 
 END OF RECORD
