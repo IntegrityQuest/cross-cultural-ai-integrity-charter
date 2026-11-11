@@ -17,6 +17,9 @@ They are not canon. They are the working record — the trail left behind as the
 | Session | Date | Content |
 |---|---|---|
 | [SESSION-SUMMARY-2026-04-03](SESSION-SUMMARY-2026-04-03-DUAL-CHATBOT-v8_1-COMPLETE.md) | April 3, 2026 | integrity.quest dual-chatbot deployment (GPT-5 + Claude Sonnet 4.6), system prompt v8.1, technical configuration, key design decisions |
+| [SESSION-SUMMARY-2026-06-06](SESSION-SUMMARY-2026-06-06-AI-SUITE-DEPLOYMENT-INTEGRITY-QUEST.md) | June 6–7, 2026 | Move from WordPress to the Next.js AI Suite; 3-Fold Process closed; ethical floor embedded platform-wide; Compare AI built |
+| [SESSION-SUMMARY-2026-06-07 (chatbots)](SESSION-SUMMARY-2026-06-07-IQ-CHATBOTS-PLATFORM-EXPANSION.md) | June 7, 2026 | Six IQ chatbots live (IQ Chat, One Accord, Scholar, Counsel, Scribe, Compare AI); flag-and-report accountability |
+| [SESSION-SUMMARY-2026-06-07 (homepage)](SESSION-SUMMARY-2026-06-07-IQ-PLATFORM-HOMEPAGE-PLANS.md) | June 7, 2026 | Homepage rewrite to IQ mission content; Free plan update; UI consistency |
 
 ---
 

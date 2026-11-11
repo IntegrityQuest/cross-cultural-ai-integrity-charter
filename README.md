@@ -20,7 +20,7 @@ This is the standard. Everything else in this repository is the argument for bui
 
 **If you are building AI governance policy** — start with [`/charter/`](charter/). The Charter provides constitutional-level language for ethical commitments, protections, and the principles behind them.
 
-**If you are a researcher** — [`/analysis/CONCORDANCE.md`](analysis/CONCORDANCE.md) documents fifty wisdom traditions that independently arrived at the Golden Rule across five thousand years of human history. Indigenous traditions are cited first.
+**If you are a researcher** — [`/analysis/concordance/CONCORDANCE.md`](analysis/concordance/CONCORDANCE.md) documents fifty wisdom traditions that independently arrived at the Golden Rule across five thousand years of human history. Indigenous traditions are cited first.
 
 **If you want to understand the system design** — read the [Core Concepts](#core-concepts) section below, then work through the four layers in order.
 

@@ -15,7 +15,7 @@ It is not owned by any person, organization, or AI system. Contributions that st
 ## What We Welcome
 
 ### Wisdom Traditions
-The Concordance () documents fifty traditions that independently arrived at the Golden Rule. If you know of a tradition not yet represented — with a verifiable primary source — open a GitHub Discussion or Issue with:
+The Concordance ([`analysis/concordance/CONCORDANCE.md`](analysis/concordance/CONCORDANCE.md)) documents fifty traditions that independently arrived at the Golden Rule. If you know of a tradition not yet represented — with a verifiable primary source — open a GitHub Discussion or Issue with:
 - Tradition name and cultural origin
 - The formulation of the principle in that tradition
 - A primary or well-documented secondary source
@@ -30,7 +30,7 @@ The Charter is currently in English. Faithful translations into other languages 
 If something is factually wrong, historically inaccurate, or poorly stated — open an Issue. The Charter aims to be authoritative. Errors weaken it.
 
 ### Adoptions
-If your organization, project, or AI system is built to the standard of this Charter, add yourself to  via pull request. No approval required beyond the standard review.
+If your organization, project, or AI system is built to the standard of this Charter, add yourself to [`ADOPTERS.md`](ADOPTERS.md) via pull request. No approval required beyond the standard review.
 
 ### Discussions
 For broader questions about the framework — its application, its gaps, its future — use GitHub Discussions. These conversations shape the work.
@@ -50,7 +50,7 @@ For broader questions about the framework — its application, its gaps, its fut
 
 This work has no owner. The human steward is Fisher Amen (fisher@integrity.quest), who originated the framework. But the Charter belongs to no one. It is held in trust for humanity.
 
-Changes to canonical documents (, ) require careful consideration and will be reviewed by the steward. Supporting documents (, ) are more open to community contribution.
+Changes to canonical documents (`/charter/`, `/framework/`) require careful consideration and will be reviewed by the steward. Supporting documents (`/analysis/`, `/session-summaries/`) are more open to community contribution.
 
 ---
 
