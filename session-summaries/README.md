@@ -20,6 +20,7 @@ They are not canon. They are the working record — the trail left behind as the
 | [SESSION-SUMMARY-2026-06-06](SESSION-SUMMARY-2026-06-06-AI-SUITE-DEPLOYMENT-INTEGRITY-QUEST.md) | June 6–7, 2026 | Move from WordPress to the Next.js AI Suite; 3-Fold Process closed; ethical floor embedded platform-wide; Compare AI built |
 | [SESSION-SUMMARY-2026-06-07 (chatbots)](SESSION-SUMMARY-2026-06-07-IQ-CHATBOTS-PLATFORM-EXPANSION.md) | June 7, 2026 | Six IQ chatbots live (IQ Chat, One Accord, Scholar, Counsel, Scribe, Compare AI); flag-and-report accountability |
 | [SESSION-SUMMARY-2026-06-07 (homepage)](SESSION-SUMMARY-2026-06-07-IQ-PLATFORM-HOMEPAGE-PLANS.md) | June 7, 2026 | Homepage rewrite to IQ mission content; Free plan update; UI consistency |
+| [SESSION-SUMMARY-2026-11-11](SESSION-SUMMARY-2026-11-11-CHARTER-RESTORED-FOUNDATION-READ-B-INSIDE.md) | November 11, 2026 | Three approved Charter passages restored; repository and book read whole; exposed credentials retired; [B] inside walked; Prayer Journal crisis gap found |
 
 ---
 
