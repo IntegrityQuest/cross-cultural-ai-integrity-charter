@@ -5,8 +5,9 @@
  * Keeps the API key server-side. Receives JSON from the browser,
  * forwards it to OpenRouter, and streams the response back.
  *
- * Setup: set OPENROUTER_API_KEY in your environment or replace
- * the getenv() call with the key string directly.
+ * Setup: set OPENROUTER_API_KEY as a server environment variable.
+ * Never put the key in this file. Also protect this folder with a
+ * login (nginx basic auth) so only admins can reach it.
  */
 
 header('Content-Type: application/json');
@@ -25,12 +26,34 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     exit;
 }
 
+// Daily limits so a stranger (or a bug) cannot run up the bill.
+// Counts live in the system temp folder, one small file per day.
+$daily_total_max = 150;   // all visitors together
+$daily_ip_max    = 30;    // per visitor address
+$day   = gmdate('Ymd');
+$ip    = $_SERVER['REMOTE_ADDR'] ?? 'unknown';
+$files = [
+    sys_get_temp_dir() . "/bnet_trial_{$day}_all.cnt"                    => $daily_total_max,
+    sys_get_temp_dir() . '/bnet_trial_' . $day . '_' . md5($ip) . '.cnt' => $daily_ip_max,
+];
+foreach ($files as $f => $max) {
+    $n = is_file($f) ? (int) file_get_contents($f) : 0;
+    if ($n >= $max) {
+        http_response_code(429);
+        echo json_encode(['error' => 'Daily limit reached. Please try again tomorrow.']);
+        exit;
+    }
+}
+foreach ($files as $f => $max) {
+    $n = is_file($f) ? (int) file_get_contents($f) : 0;
+    file_put_contents($f, (string) ($n + 1), LOCK_EX);
+}
+
 $api_key = getenv('OPENROUTER_API_KEY');
 if (!$api_key) {
-    // Fallback: hard-code the key here during initial setup.
-    // Replace this string with your actual key, then prefer
-    // moving it to an environment variable.
-    $api_key = 'YOUR_OPENROUTER_API_KEY';
+    http_response_code(500);
+    echo json_encode(['error' => 'Service not configured.']);
+    exit;
 }
 
 $raw = file_get_contents('php://input');
@@ -44,12 +67,9 @@ if (!$body || empty($body['model']) || empty($body['messages'])) {
 
 // Allowlist of permitted OpenRouter model IDs
 $allowed_models = [
-    'anthropic/claude-sonnet-4-6',
-    'anthropic/claude-opus-4',
+    'anthropic/claude-sonnet-4.6',
     'openai/gpt-4o',
-    'openai/gpt-4o-mini',
-    'google/gemini-flash-1.5',
-    'google/gemini-pro-1.5',
+    'google/gemini-3.5-flash',
 ];
 
 if (!in_array($body['model'], $allowed_models, true)) {
