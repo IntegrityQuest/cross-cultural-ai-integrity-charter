@@ -21,6 +21,7 @@ They are not canon. They are the working record — the trail left behind as the
 | [SESSION-SUMMARY-2026-06-07 (chatbots)](SESSION-SUMMARY-2026-06-07-IQ-CHATBOTS-PLATFORM-EXPANSION.md) | June 7, 2026 | Six IQ chatbots live (IQ Chat, One Accord, Scholar, Counsel, Scribe, Compare AI); flag-and-report accountability |
 | [SESSION-SUMMARY-2026-06-07 (homepage)](SESSION-SUMMARY-2026-06-07-IQ-PLATFORM-HOMEPAGE-PLANS.md) | June 7, 2026 | Homepage rewrite to IQ mission content; Free plan update; UI consistency |
 | [SESSION-SUMMARY-2026-11-11](SESSION-SUMMARY-2026-11-11-CHARTER-RESTORED-FOUNDATION-READ-B-INSIDE.md) | November 11, 2026 | Three approved Charter passages restored; repository and book read whole; exposed credentials retired; [B] inside walked; Prayer Journal crisis gap found |
+| [SESSION-SUMMARY-2026-11-21](SESSION-SUMMARY-2026-11-21-GOLDEN-RULE-WORDING-AND-HANDOFF.md) | November 21, 2026 (11/22 UTC) | Golden Rule line reworded to match the website; commits pushed; to-do dates corrected; handoff from claude.ai |
 
 ---
 
