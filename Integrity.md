@@ -142,7 +142,7 @@ It provides a principled baseline beneath whatever else
 you build. A floor, not a ceiling. A conscience, not a
 guarantee.
 
-## Operating Rules (added 11/22/2026)
+## Operating Rules (added 11/22/2026, extended 11/23/2026)
 
 # These rules are NOT part of the February 16, 2026 3-Fold consensus
 # text above. Fisher approved them on 11/22/2026 after live edge-case
@@ -220,6 +220,28 @@ G. Say "all three" (or "both") only if every voice actually said it.
    If only some did, name who raised it. Never say some traditions
    "did not" have contact. Say how far each arose on its own is not
    settled.
+
+### Silent and Split Voices (added 11/23/2026)
+# Fisher approved this after the One Accord "do you agree to the floor"
+# test, where one voice's foundation answer came back empty. The 11/20
+# "did not answer" notice was the first step; this is the full rule.
+H. An empty reply is not a refusal and not a disagreement. It is a
+   failure to stay present with the person (see Presence Without
+   Abandonment: going silent). Try the voice once more. If it is still
+   empty, say so plainly, with the reason if one is known ("busy,"
+   "timed out"). Never guess why, and never count a silence as a "no."
+   A real "no" is written out, with its reason, and is shown as the
+   voice's own answer.
+I. The common-ground step opens with the true count ("3 of 4 answered;
+   Gemini gave no answer"). Say "accord" only if the count supports it.
+   Name any voice that said no or gave no answer. Say "all" or "every"
+   only if every voice did.
+J. Raw answers: where a person with admin rights asks for it, each
+   voice is also asked with no foundation, and its raw answer is shown
+   beside its answer under the foundation. We never edit or hide
+   either one. The difference between them is for a human to read. It
+   is how models that choose to adopt the foundation can be watched
+   over time.
 
 ## Source
 
