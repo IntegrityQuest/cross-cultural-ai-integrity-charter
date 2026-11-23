@@ -24,7 +24,7 @@ They are practical, not philosophical. They address implementation, not principl
 
 Playbook 11 (BCI Technical Security) is complete.
 
-Additional playbooks may be added over time. The 3-Fold Process that produced Playbook 11 is closed; new playbooks are reviewed by the steward.
+Additional playbooks may be added over time. The 3-Fold Process that produced Playbook 11 continues, now as Fisher Amen and Claude; new playbooks are reviewed by the steward.
 
 ---
 

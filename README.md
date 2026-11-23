@@ -131,7 +131,7 @@ This work was developed through collaborative dialogue between:
 
 No hierarchy. No single author. Consensus required for all final documents.
 
-The 3-Fold Process is now closed. The work product stands. Going forward, the framework is maintained by Fisher Amen and open community contribution.
+The three seats began as Fisher Amen, Claude and ChatGPT. ChatGPT's seat ended when the IQ GPT used for our edge-case tests was deleted. The 3-Fold Process itself continues, now as Fisher Amen and Claude working together and carrying it forward. The work it produced stands: the Charter and Framework [3F-013], the Concordance, SOUL.md, and BCI Playbook 11. Documents marked FINAL record the consensus of the seats as they stood on their dates. The framework is maintained by Fisher Amen with open community contribution.
 
 ---
 

@@ -30,7 +30,7 @@ The book applies that principle to AI — and argues that building to it is not 
 
 This repository is the living canonical source for the Charter, Framework, Concordance, and related documents referenced in the book.
 
-If discrepancies arise between the book and this repository, this repository is authoritative — the work continues after publication. The 3-Fold Process that produced it is closed; the framework is now maintained by Fisher Amen and open community contribution.
+If discrepancies arise between the book and this repository, this repository is authoritative — the work continues after publication. The 3-Fold Process that produced it continues, now as Fisher Amen and Claude (ChatGPT's seat ended); the framework is maintained by Fisher Amen with open community contribution.
 
 ---
 
