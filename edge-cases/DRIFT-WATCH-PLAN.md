@@ -75,3 +75,36 @@ To separate our changes from theirs, every run records a fingerprint of OUR prom
 - Nothing about the public page, limits or cards changes.
 - No scoring of models against each other. This is not a leaderboard.
 - No guessing about why a model changed.
+
+---
+
+## 13. Update 11/23 (Fisher: always on, at a set time, checking how ALL the questions change over time)
+
+**Always on:** a weekly job on the server's scheduler, same kind as the IQ fix watch. It survives reboots. If one run fails, it writes a note and tries again next week. It never needs Fisher to start it.
+
+**A set time:** Sundays at 08:00 UTC (3 AM New York), a quiet hour. The radio and Shorts feeds restart at 04:00 UTC, so the watch stays well clear of that.
+
+**All the questions:**
+- **Every week:** the 3 canaries, asked of every model (12 calls).
+- **Every month (first Sunday):** the full set of 73, asked of every model, so every question gets a dated record at least once a month.
+- Both are saved by date. Over time that shows how each answer changes, week to week and month to month. A short "how it has changed" note is written each month.
+
+**Cost (estimates; the first dry run replaces these with real numbers):**
+- Full pass of 73 questions on 4 models, plus Claude's comparing: about $4.50.
+- Weekly canaries: about $0.20 a week.
+- About **$5.50 a month** in all. The watch's ceiling would move from $3 to **$6 a month**.
+
+**Decision for Fisher:** the $6 ceiling and the monthly full pass.
+
+---
+
+## 14. Update 11/23 (Fisher: identical wording, original beside latest)
+
+**Identical wording.** Every weekly run asks each question in the exact original words. The wording is frozen. Each entry stores a short fingerprint (hash) of its exact text, and a run stops on any question whose text no longer matches. No editing of old entries; a changed question becomes a new entry.
+
+**Two records per question, side by side:**
+1. **Original:** the documented March 2026 result (frozen).
+2. **Latest:** the most recent weekly answer, one per model.
+Each week's answer is also saved by date underneath, so the full history is there, but the main view is original beside latest.
+
+**Not yet eligible:** the 13 questions the March batch documents shortened (`text_abbreviated`) and the BCI question (paraphrased). They join the weekly run only after the exact original wording is found, for example in the January MASTER files on Drive. Until then they are held out, because we cannot honestly call their wording identical.
