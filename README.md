@@ -20,7 +20,7 @@ This is the standard. Everything else in this repository is the argument for bui
 
 **If you are building AI governance policy** — start with [`/charter/`](charter/). The Charter provides constitutional-level language for ethical commitments, protections, and the principles behind them.
 
-**If you are a researcher** — [`/analysis/concordance/CONCORDANCE.md`](analysis/concordance/CONCORDANCE.md) documents fifty wisdom traditions that independently arrived at the Golden Rule across five thousand years of human history. Indigenous traditions are cited first.
+**If you are a researcher** — [`/analysis/concordance/CONCORDANCE.md`](analysis/concordance/CONCORDANCE.md) documents the Golden Rule in fifty wisdom traditions across thousands of years of human history, each rooted in its own scripture and history (some had contact with others along the way). Indigenous traditions are cited first.
 
 **If you want to understand the system design** — read the [Core Concepts](#core-concepts) section below, then work through the four layers in order.
 
@@ -40,7 +40,7 @@ If discrepancies arise, this repository is authoritative.
 
 This repository contains the Cross-Cultural AI Integrity Charter — a constitutional framework for AI systems built on a single ancient principle: treat others as you would wish to be treated.
 
-This ethic appears independently across **fifty wisdom traditions spanning the full breadth of human history**. These traditions never met. They reached the same conclusion.
+This ethic is found in **fifty wisdom traditions spanning thousands of years of human history**, each rooted in its own scripture and history (some had contact with others along the way).
 
 The Charter takes this convergent wisdom and applies it to artificial intelligence.
 
@@ -50,7 +50,7 @@ The Charter takes this convergent wisdom and applies it to artificial intelligen
 
 AI systems now speak, reason, and act in ways that touch every part of human life. Soon, these systems will reach further — into neural interfaces where thought itself is formed.
 
-The question is not whether AI will be powerful. It will. The question is whether it will be built to the standard humanity already discovered — independently, across every culture, in every era — for how to treat another person.
+The question is not whether AI will be powerful. It will. The question is whether it will be built to the standard found across wisdom traditions for how to treat another person.
 
 ---
 
@@ -85,7 +85,7 @@ The framework is organized in four layers, each building on the one before it.
 │  Currently: BCI / Neural Interface requirements.        │
 ├─────────────────────────────────────────────────────────┤
 │  LAYER 4 — ANALYSIS            /analysis/               │
-│  The evidence base. 50 traditions. 5,000 years.        │
+│  The evidence base. 50 traditions.                     │
 │  The Concordance. Supporting research.                  │
 └─────────────────────────────────────────────────────────┘
 

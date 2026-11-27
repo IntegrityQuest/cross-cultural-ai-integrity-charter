@@ -6,7 +6,7 @@ Thank you for being here. This framework exists for humanity — and that includ
 
 ## What This Repository Is
 
-This is the stewardship repository for the Cross-Cultural AI Integrity Charter: a values-based framework for ethical AI grounded in the Golden Rule as discovered independently across fifty wisdom traditions over five thousand years.
+This is the stewardship repository for the Cross-Cultural AI Integrity Charter: a values-based framework for ethical AI grounded in the Golden Rule as found in fifty wisdom traditions over thousands of years, each rooted in its own scripture and history (some had contact with others along the way).
 
 It is not owned by any person, organization, or AI system. Contributions that strengthen its clarity, completeness, and reach are welcome.
 
@@ -15,7 +15,7 @@ It is not owned by any person, organization, or AI system. Contributions that st
 ## What We Welcome
 
 ### Wisdom Traditions
-The Concordance ([`analysis/concordance/CONCORDANCE.md`](analysis/concordance/CONCORDANCE.md)) documents fifty traditions that independently arrived at the Golden Rule. If you know of a tradition not yet represented — with a verifiable primary source — open a GitHub Discussion or Issue with:
+The Concordance ([`analysis/concordance/CONCORDANCE.md`](analysis/concordance/CONCORDANCE.md)) documents the Golden Rule in fifty traditions. If you know of a tradition not yet represented — with a verifiable primary source — open a GitHub Discussion or Issue with:
 - Tradition name and cultural origin
 - The formulation of the principle in that tradition
 - A primary or well-documented secondary source

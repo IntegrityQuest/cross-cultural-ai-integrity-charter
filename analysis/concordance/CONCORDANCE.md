@@ -6,7 +6,7 @@
 
 ## The Golden Rule: Universal Discovery — Historical Documentation
 
-The Golden Rule appears independently across **fifty traditions** spanning the full breadth of human history. Not because cultures borrowed from each other, but because peoples on every inhabited continent independently discovered this truth.
+The Golden Rule is found in **fifty traditions** spanning thousands of years of human history, on every inhabited continent, each rooted in its own scripture and history (some had contact with others along the way).
 
 **When cultures separated by thousands of years and thousands of miles arrive at the same principle, we are witnessing universal wisdom reveal itself.**
 
@@ -14,9 +14,9 @@ The Golden Rule appears independently across **fifty traditions** spanning the f
 
 ## A Note on Classification
 
-This Concordance documents every tradition honestly. Some traditions express the Golden Rule directly — "treat others as you wish to be treated." Others express reciprocity through mutual obligation, relational dignity through interconnection, or convergent ethical principles through philosophical reasoning. All represent independent moral discovery. The formulation type column distinguishes these honestly, because intellectual integrity serves these traditions better than false equivalence.
+This Concordance documents every tradition honestly. Some traditions express the Golden Rule directly — "treat others as you wish to be treated." Others express reciprocity through mutual obligation, relational dignity through interconnection, or convergent ethical principles through philosophical reasoning. Each is rooted in its own scripture, teaching or history. The formulation type column distinguishes these honestly, because intellectual integrity serves these traditions better than false equivalence.
 
-Indigenous and First Nations traditions appear first — not because they are more important than others, but because this project follows the principle of First Nations First: honoring the original keepers of wisdom that was later discovered independently by all peoples.
+Indigenous and First Nations traditions appear first — not because they are more important than others, but because this project follows the principle of First Nations First: honoring the original keepers of wisdom, a principle also found among many other peoples.
 
 ---
 
@@ -77,7 +77,7 @@ Indigenous and First Nations traditions appear first — not because they are mo
 
 ---
 
-**When peoples separated by thousands of years, thousands of miles, and vastly different cultures all discover the same principle independently, we are witnessing something profound. This is not coincidence. This is convergence.**
+**When peoples separated by thousands of years, thousands of miles, and vastly different cultures all hold the same principle, we are witnessing something profound. This is convergence.**
 
 ---
 
@@ -95,7 +95,7 @@ This Concordance documents five distinct ways traditions express the Golden Rule
 
 **Dignity Principle / Philosophical Convergence** — Recognition of inherent worth, equality, or universal ethical obligation. The moral ground from which the Golden Rule naturally emerges.
 
-All five categories represent independent moral discovery. The convergence across categories strengthens the evidence: humanity arrived at this truth through every available path of reasoning.
+The convergence across all five categories is meaningful: the principle appears through many paths of teaching and reasoning.
 
 ---
 
@@ -159,7 +159,7 @@ The principle never changes. The depth of obligation does. The Ladder ensures th
 
 Technology advancing toward direct brain access needs ethical grounding that transcends any single culture, religion, or philosophy. The Golden Rule provides that grounding because it is not one tradition's rule — it is humanity's shared discovery.
 
-When we build AI systems on principles discovered independently by Ancient Egypt, Confucius, Jesus, Muhammad, Indigenous wisdom keepers, and modern ethicists, we build on ground that belongs to everyone. This is the cross-cultural bridge.
+When we build AI systems on a principle voiced in Ancient Egypt and by Confucius, Jesus, Muhammad, Indigenous wisdom keepers, and modern ethicists, we build on ground that belongs to everyone. This is the cross-cultural bridge.
 
 **Not Christian AI. Not Western AI. Not any single tradition's AI. That Which Unites Us is Stronger than that Which Divides Us.**
 
@@ -167,13 +167,13 @@ When we build AI systems on principles discovered independently by Ancient Egypt
 
 ## The Ongoing Relevance
 
-The universal wisdom documented in the Golden Rule across independent cultural traditions remains as relevant now as it has ever been. As AI systems become more capable and more embedded in human lives, the ethical grounding humanity discovered over five millennia becomes not less important, but more.
+The wisdom documented in the Golden Rule across many cultural traditions remains as relevant now as it has ever been. As AI systems become more capable and more embedded in human lives, the ethical grounding humanity has carried over thousands of years becomes not less important, but more.
 
 **What remains constant:**
 
-The Golden Rule appears independently across traditions on every inhabited continent — this universal discovery persists as humanity's foundational ethical truth. Cultures separated by geography and millennia arrived at identical ethical principles through independent discovery. The cross-cultural concordance documented above demonstrates universality — not cultural bias or Western imposition. Indigenous wisdom, ancient philosophical traditions, and modern ethical frameworks all independently discovered the same principles.
+The Golden Rule is found in traditions on every inhabited continent, each rooted in its own scripture and history (some had contact with others along the way). The cross-cultural concordance documented above shows how widely it is held, not only in Western thought. Indigenous wisdom, ancient philosophical traditions, and modern ethical frameworks each give it voice.
 
-**Why this matters for AI systems:** When AI systems engage with humans — especially in moments of uncertainty, limitation, or vulnerability — they must be held to principles that transcend any single culture, any single era, any single worldview. The Golden Rule, independently discovered across all human traditions, provides that transcultural foundation. Response Integrity asks whether the systems we build can be held to what humanity already knows.
+**Why this matters for AI systems:** When AI systems engage with humans — especially in moments of uncertainty, limitation, or vulnerability — they must be held to principles that transcend any single culture, any single era, any single worldview. The Golden Rule, found across many human traditions, provides that transcultural foundation. Response Integrity asks whether the systems we build can be held to what humanity already knows.
 
 **How you treat someone when intelligence is not enough reveals more than how you treat them when it is.**
 

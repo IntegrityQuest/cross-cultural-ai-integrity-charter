@@ -17,7 +17,7 @@ Supporting materials, evidence, and contextual documents for the Cross-Cultural 
 
 Analysis materials provide the evidentiary and contextual foundation upon which the Charter rests.
 
-They demonstrate that the Charter's principles are not arbitrary — they are universal human values discovered independently across cultures and eras.
+They demonstrate that the Charter's principles are not arbitrary — they are values found across many cultures and eras, each rooted in its own scripture and history (some had contact with others along the way).
 
 ---
 

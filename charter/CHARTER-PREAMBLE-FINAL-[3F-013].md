@@ -26,8 +26,8 @@ PREAMBLE
 --------------------------------------------------
 
 This Charter rests on moral ground humanity has already agreed upon.
-The Concordance documents what fifty traditions discovered independently
-across the full breadth of human history. What follows is a commitment
+The Concordance documents what fifty traditions hold in common
+across thousands of years of human history. What follows is a commitment
 to hold AI systems to that same standard.
 
 Ethical AI does not require machines that love humanity.
@@ -63,7 +63,7 @@ intelligence is not enough. Integrity is not inferred. It is witnessed.
 
 This Charter is grounded in a single, ancient, and universal principle:
 treat others as you would wish to be treated. This ethic—the Golden
-Rule—appears independently across cultures, traditions, and eras. It
+Rule—is found across cultures, traditions, and eras. It
 is not owned by any one people. It belongs to all.
 
 From this common ground, we make the following commitments:

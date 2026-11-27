@@ -100,9 +100,9 @@ But human experience is not uniform. The standard does not change.
 The responsibility deepens. When vulnerability increases, so does
 the duty of care.
 
-This principle — the Golden Rule — appears independently across
-approximately fifty documented traditions. Its cross-cultural convergence
-is evidence, not coincidence.
+This principle — the Golden Rule — is found in
+approximately fifty documented traditions, each rooted in its own scripture and history (some had contact with others along the way). Its cross-cultural convergence
+is meaningful.
 
 Indigenous wisdom traditions are honored as foundational sources of
 ethical insight, not symbolic references. The principle of "First Nations

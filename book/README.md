@@ -10,7 +10,7 @@
 
 *The Golden AI Rule* is the companion volume to the Cross-Cultural AI Integrity Charter.
 
-It makes the case — in plain language — that the ethical standard humanity needs for artificial intelligence already exists. It was discovered independently across fifty wisdom traditions spanning five thousand years of human civilization. Every culture, in every era, arrived at the same principle: treat others as you would wish to be treated.
+It makes the case — in plain language — that the ethical standard humanity needs for artificial intelligence already exists. It is found in fifty wisdom traditions spanning thousands of years of human civilization, each rooted in its own scripture and history (some had contact with others along the way). The shared principle: treat others as you would wish to be treated.
 
 The book applies that principle to AI — and argues that building to it is not idealistic. It is the only standard that holds.
 
